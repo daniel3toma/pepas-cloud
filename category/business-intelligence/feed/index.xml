@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Business Intelligence &#8211; Pepas Cloud</title>
+	<atom:link href="/category/business-intelligence/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Work smart, not hard!</description>
+	<lastBuildDate>Sun, 05 Apr 2020 18:07:30 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-Favicon-400x400-32x32.png</url>
+	<title>Business Intelligence &#8211; Pepas Cloud</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Faceti cunostinta cu PowerBI</title>
+		<link>/powerbi/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Thu, 29 Nov 2018 14:12:09 +0000</pubDate>
+				<category><![CDATA[Business Intelligence]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<category><![CDATA[PowerBI]]></category>
+		<category><![CDATA[Solutii Cloud]]></category>
+		<guid isPermaLink="false">/?p=6931</guid>
+
+					<description><![CDATA[Power BI &#8211;&#160; afacerea ta in date, grafice si cifre! &#160; Am creat acest articol pentru toti antreprenorii care isi doresc sa aiba o vizibilitate cat mai mare asupra datelor companiei lor. Mai jos regasiti mai multe detalii despre ce este, ce poate sa faca si cu ce va poate ajuta&#160;Power BI. &#160; Ce este [...]]]></description>
+										<content:encoded><![CDATA[
+<h3>Power BI &#8211;&nbsp; afacerea ta in date, grafice si cifre!</h3>
+<p>&nbsp;</p>
+<p>Am creat acest articol pentru toti antreprenorii care isi doresc sa aiba o vizibilitate cat mai mare asupra datelor companiei lor.</p>
+<p>Mai jos regasiti mai multe detalii despre ce este, ce poate sa faca si cu ce va poate ajuta&nbsp;Power BI.</p>
+<p>&nbsp;</p>
+<h4><strong>Ce este Power BI?</strong></h4>
+<p>&nbsp;</p>
+<p>Power BI (BI este abrevierea pentru Business Intelligence) este un produs ce face parte din serviciile cloud ale Microsoft. Face parte din ceea ce Microsoft numeste &#8220;platforma de putere – Power Platform&#8221;, care include si Microsoft Flow si PowerApps. Microsoft Flow este un instrument ce permite creezi fluxuri de lucru de ultima generatie. PowerApps este un produs pentru construirea de aplicatii pentru dispozitive mobile si nu numai, functionand foarte bine cu IOS si Android. Power BI este componenta de date a acestui grup de produse. Toate aceste produse colaboreaza strans cu alte produse Office 365 si sunt incluse în Office 365 in functie de abonamentul pe care il aveti.</p>
+<p>&nbsp;</p>
+<p>Gandeste-te la Power BI ca la un website care te lasa sa conectezi sute de surse de date in acelasi loc pentru a putea construi rapoarte si apoi a le partaja sau integra cu alte aplicatii.</p>
+<p>&nbsp;</p>
+<h4><strong>Vezi datele altfel!</strong></h4>
+<p>&nbsp;</p>
+<p>Ia rapid decizii bazate pe informatie! Conecteaza-te, modeleaza si apoi exploreaza datele cu rapoarte vizuale pe care le poti publica si distribui si pe care poti colabora cu parteneri, furnizori si colegi. Power BI se integreaza cu alte instrumente cum ar fi: TXT, JSON, SQL Server database, Oracle database, MySQL database, SAP HANA si alte zeci de surse de date, inclusiv Microsoft Excel, astfel incat sa poti accelera rapid si sa lucrezi fara probleme cu solutiile existente.</p>
+<h4><img class="alignnone wp-image-12844 size-large" src="/wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-1-1400x526.png" alt="" width="1020" height="383" srcset="/wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-1-1400x526.png 1400w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-1-600x225.png 600w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-1-800x300.png 800w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-1-768x288.png 768w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-1.png 1534w" sizes="(max-width: 1020px) 100vw, 1020px" /></h4>
+<h4>&nbsp;</h4>
+<h4><strong>Creeaza!</strong></h4>
+<p>&nbsp;</p>
+<p>Conecteaza-te la datele tale de oriunde ai fi! Apoi exploreaza-ti datele cu rapoarte si grafice interactive.</p>
+<p>&nbsp;</p>
+<h4><strong>Treci de la date la statistici in cateva minute cu Power BI Desktop!</strong></h4>
+<p>&nbsp;</p>
+<ul>
+<li>Conecteaza-te la sute de surse de date din infrasturctura locala cat si din cloud.</li>
+<li>Utilizati Power Query pentru a simplifica inserarea, transformarea, integrarea si imbunatatirea datelor.</li>
+<li>Creeaza rapoarte folosind grafice prestabilite sau creeaza-ti propriile grafice personalizate.</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong>Colaboreaza si partajeaza!</strong></h4>
+<p>&nbsp;</p>
+<p>Publica rapoarte si grafice, colaboreaza cu echipa ta si partajeaza informatii in interiorul si in afara organizatiei tale.</p>
+<p><img class="alignnone wp-image-6979 " src="/wp-content/uploads/2018/11/PowerBI-Pepas-Cloud-2-1024x719.png" alt="" width="924" height="649"><img class="alignnone wp-image-12847 size-large" src="/wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-2-1140x800.png" alt="" width="1020" height="716" srcset="/wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-2-1140x800.png 1140w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-2-600x421.png 600w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-2-570x400.png 570w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-2-768x539.png 768w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-2.png 1154w" sizes="(max-width: 1020px) 100vw, 1020px" /></p>
+<p>&nbsp;</p>
+<h4><strong>Utilizeaza Power BI Pro pentru a crea o cultura a datelor in organizatia ta!</strong></h4>
+<p>&nbsp;</p>
+<p>O licenta Power BI Pro permite accesul la intregul continut si capabilitati din serviciul Power BI, inclusiv posibilitatea de a partaja continut si de a colabora cu alti utilizatori Pro. Numai utilizatorii Pro pot publica si pot consuma continut din spatiile de lucru ale aplicatiilor, pot distribui tablouri de bord si se pot abona la tablouri de bord si rapoarte. O licenta gratuita permite accesul la unele dintre caracteristicile serviciului Power BI.</p>
+<p>&nbsp;</p>
+<ul>
+<li>Colaboreaza cu utilizatorii din orice functie din intreaga organizatie.</li>
+<li>Publica in timp real continut pe care utilizatorii il pot accesa in birou sau in deplasare.</li>
+<li>Administreaza in mod centralizat informatiile de afaceri ale organizatiei tale.</li>
+</ul>
+<p><img class="alignnone wp-image-12846 size-large" src="/wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-3-1140x800.png" alt="" width="1020" height="716" srcset="/wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-3-1140x800.png 1140w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-3-600x421.png 600w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-3-570x400.png 570w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-3-768x539.png 768w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-3.png 1154w" sizes="(max-width: 1020px) 100vw, 1020px" /></p>
+<p>&nbsp;</p>
+<h4><strong>Power BI Premium iti permite sa distribui rapoarte fara a achizitiona licente individuale.</strong></h4>
+<p>&nbsp;</p>
+<p>Licentierea de tip Premium a Power BI vine cu capacitate de procesare dedicata pentru a oferi o performanta mai consistenta si pentru a sprijini volume mai mari de date in Power BI. Pentru utilizatorii individuali, Premium permite, de asemenea, distributia pe scara larga a continutului de catre utilizatorii Pro fara a solicita licente Pro pentru destinatarii care vizualizeaza continutul.</p>
+<p>&nbsp;</p>
+<ul>
+<li>Distribuie continutul pe larg in interiorul si in exteriorul organizatiei tale.</li>
+<li>Scaleaza afacerea si resursele ei atunci cand esti gata, cu o capacitate si mai mare alocata exclusiv pentru tine.</li>
+<li>Bucura-te de flexibilitatea si de implementarea usoara care vine numai cu un serviciu SaaS adevarat si profesionist.</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong>Acceseaza-ti datele si statisticile de oriunde!</strong></h4>
+<p>&nbsp;</p>
+<p>Actioneaza cu acces facil la informatiile companiei de la birou sau in timpul deplasarii cu aplicatiile Power BI construite de Microsoft, de organizatia ta si de partenerii tai.</p>
+<p><img class="alignnone wp-image-12845 size-full" src="/wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-main-1.jpg" alt="" width="1100" height="700" srcset="/wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-main-1.jpg 1100w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-main-1-600x382.jpg 600w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-main-1-629x400.jpg 629w, /wp-content/uploads/2020/03/PowerBI-Pepas-Cloud-main-1-768x489.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Asadar, Power BI poate fi cel mai bun prieten al tau si iti poate oferi un avantaj competitiv si viteza de reactie la schimbarile pietei.</p>
+<p>&nbsp;</p>
+<h3><strong> Power BI iti prezinta in timp real tot ceea ce inseamna afacerea ta in date, grafice si cifre.</strong></h3>
+<p>&nbsp;</p>
+<p>Pentru mai multe informatii nu ezitati sa ne <a href="/?page_id=598">contactati</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

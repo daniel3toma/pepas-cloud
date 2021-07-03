@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cloud News &#8211; Pepas Cloud</title>
+	<atom:link href="/category/cloud-news/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Work smart, not hard!</description>
+	<lastBuildDate>Thu, 19 Nov 2020 14:57:05 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-Favicon-400x400-32x32.png</url>
+	<title>Cloud News &#8211; Pepas Cloud</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>End of support for Office 2010 for Windows and Office 2016 for MAC OSXSfarsitul asistentei pentru Office 2010 pentru Windows si Office 2016 pentru MAC OSX</title>
+		<link>/office-2010-end-of-support/</link>
+		
+		<dc:creator><![CDATA[Camelia Toma]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2020 12:31:35 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<guid isPermaLink="false">/?p=13839</guid>
+
+					<description><![CDATA[  Asistenta pentru Office 2010 versiunea pentru Windows si Office 2016 versiunea pentru MAC OSX s-a incheiat pe 13 octombrie 2020 si nu va exista nicio prelungire a perioadei de suport si nicio actualizare de securitate. Toate aplicatiile dumneavoastra din suita Office 2010 (sau 2016 pentru MAC) vor continua sa functioneze. Cu toate acestea, va [...]]]></description>
+										<content:encoded><![CDATA[
+<p> </p>
+<p>Asistenta pentru Office 2010 versiunea pentru Windows si Office 2016 versiunea pentru MAC OSX s-a incheiat pe 13 octombrie 2020 si nu va exista nicio prelungire a perioadei de suport si nicio actualizare de securitate. Toate aplicatiile dumneavoastra din suita Office 2010 (sau 2016 pentru MAC) vor continua sa functioneze. Cu toate acestea, va puteti expune la riscuri de securitate majore. Upgrade-ul este recomandat.</p>
+<h4><strong>Ce inseamna sfarsitul asistentei pentru utilizatorii de Office 2010 dupa 13 octombrie 2020:</strong></h4>
+<ul>
+<li>Microsoft nu va mai oferi asistenta tehnica, nu va mai remedia erori si nu va mai remedia probleme de securitate pentru vulnerabilitatile Office 2010 care ar putea fi raportate sau descoperite ulterior datei de 13 octombrie 2020. Aceasta include actualizari de securitate care va pot ajuta sa va protejati computerul si datele de virusi, spyware si alte programe malware.</li>
+</ul>
+<ul>
+<li>Nu veti mai primi actualizari de software pentru Office 2010 de la Microsoft Update.</li>
+</ul>
+<ul>
+<li>Nu veti mai primi asistenta tehnica prin telefon sau chat.</li>
+</ul>
+<ul>
+<li>Nu vor fi furnizate alte actualizari pentru continutul de suport si majoritatea continutului de ajutor online va fi retras.</li>
+</ul>
+<ul>
+<li>Nu veti mai putea descarca Office 2010 de pe site-ul Microsoft.</li>
+</ul>
+<ul>
+<li>Vor fi aparea probleme de compatibilitate cu versiunile mai noi ale suitei Office si unele documente nu vor putea fi deschise.</li>
+</ul>
+<ul>
+<li>Nu va mai putea fi folosit cu Microsoft/Office 365.</li>
+</ul>
+<ul>
+<li>Cele de mai sus sunt valabile si pentru Office 2016 pentru MAC OSX.</li>
+</ul>
+<p> </p>
+<h4><strong>Care sunt optiunile dumneavoastra?</strong></h4>
+<p>Va recomandam sa faceti upgrade pentru Office. Optiunile dumneavoastra de actualizare vor depinde daca utilizati Office 2010 acasa sau daca versiunea dumneavoastra de Office 2010 este folosita in scop comercial (versiunea Business).</p>
+<ul>
+<li><strong>Office 2010 pentru acasa. </strong></li>
+</ul>
+<p>Daca utilizati Office 2010 versiunea pentru acasa, il veti putea folosi in continuare, dar va recomandam sa faceti upgrade la o versiune mai noua de Office, astfel incat sa puteti ramane la curent cu cele mai recente caracteristici si functionalitati, patch-uri si actualizari de securitate.</p>
+<ul>
+<li><strong>Office 2010 varianta business.</strong></li>
+</ul>
+<h4><strong>Pentru cei care folosesc Office 2010 la locul de munca sau in cadrul unei institutii de invatamant:</strong></h4>
+<p>In acest caz va putem ajuta atat pe partea de consultanta cat si cu vanzarea licentelor necesare dumneavoastra. Gasiti multe<span style="color: #0000ff;"> <a style="color: #0000ff;" href="/microsoft-365/">detalii aici</a></span></p>
+<p> </p>
+<h4><strong>Pentru profesionistii IT si administratorii Microsoft 365:</strong></h4>
+<p><em>Daca sunteti un administrator care inca ruleaza Office 2010 in organizatia dumneavoastra, va recomandam cu tarie sa faceti upgrade utilizatorilor la <a href="https://www.pepascloud.com/cloud-solutions/">cea <span style="color: #0000ff;">mai recenta versiune de Office</span></a> cat mai curand posibil. Consultati urmatoarele pentru indrumari suplimentare</em>.</p>
+<ul>
+<li>Profesionistii IT care doresc sa afle mai multe despre actualizarea Office 2010 intr-o intreprindere, ne pot contacta <a href="/contact/">aici</a> pentru a stabili un plan de actualizare a sistemelor folosite de organizatia dumneavoastra.</li>
+</ul>
+<ul>
+<li>Administratorii Microsoft 365 care gestioneaza Microsoft 365 in organizatii mici, cu utilizatori care inca folosesc Office 2010, vor trebui sa faca actualizarea la o versiune mai noua de Office (valabil pentru cei cu pachetele Business Basic) sau sa treaca la un plan superior de Microsoft/Office 365 care contine pachetul Office</li>
+</ul>
+<p>De asemenea, puteti cumpara sau incerca acum cea mai recenta versiune de Office de <span style="color: #0000ff;"><a style="color: #0000ff;" href="/solutii-cloud/">aici</a>.</span></p>
+<p> </p>
+<h4><strong>Ce s-a schimbat dupa Office 2010? Ce au in plus versiunile mai noi?</strong></h4>
+<p><strong>Aplicatiile pe care le cunoasteti au devenit mai inteligente</strong></p>
+<p>Este mult mai usor sa dai viata ideilor cu Microsoft 365. Versiunile Premium de Word, Excel si PowerPoint va ajuta cu inteligenta artificiala incorporata si va permit sa elaborati in comun, sa dictati documente (functia de scriere automata dupa dictare este deocamdata doar pentru unele limbi de circulatie internationala cum ar fi limba engleza) si sa obtineti date in timp real.</p>
+<p><strong>Realizati mai multe impreuna</strong></p>
+<p>Partajati si colaborati cu usurinta cu alte persoane, efectuand editari si furnizand feedback in timp real. Lucrati impreuna cu alte persoane gratuit, utilizand Office pentru web.</p>
+<p><strong>Aveti intotdeauna acces la informatiile dumneavoastra</strong></p>
+<p>Accesati si salvati fisierele in siguranta de oriunde, pe toate dispozitivele dumneavoastra preferate, cu 1 TB de spatiu de stocare in cloud cu OneDrive.</p>
+<p><strong>Protejati ceea ce conteaza cel mai mult</strong></p>
+<p>Protejati-va activele digitale cu securitate OneDrive, cum ar fi detectarea ransomware, linkurile de partajare protejate prin parola si recuperarea fisierelor. Cu Outlook.com obtineti protectie avansata impotriva virusilor si a phishingului.</p>
+<p><strong>Aveti intrebari? Aveti nevoie de ajutor?</strong></p>
+<p>Luati legatura cu expertii Microsoft zilnic, prin chat, SMS-uri sau telefon.</p>
+<p>Aveti mereu minim 100 de versiuni ale documentelor si in caz de pierdere/atac cibernetic/defectiune tehnica/ etc. veti putea restaura cu usurinta ultima versiune salvata (salvarea se face automat in timp real).</p>
+<h3 style="text-align: center;"><span style="color: #0000ff;"><strong>Programati DEMO</strong></span></h3>
+<div data-uniq='60e02ebddc8f3' class='uniq-60e02ebddc8f3 formcraft-css form-live align-left'><style type='text/css' scoped='scoped'>html .formcraft-css .powered-by { display: none;}</style><script> window.formcraftLogic = window.formcraftLogic || {}; window.formcraftLogic[10] = []; </script><div class="fc-pagination-cover fc-pagination-1">
+				<div class="fc-pagination width-100">
+					<!-- ngRepeat: page in Builder.FormElements track by $index --><div class="pagination-trigger " data-index="0">
+						<span class="page-number"><span >1</span></span>
+						<span class="page-name ">Step 1</span>
+						
+					</div><!-- end ngRepeat: page in Builder.FormElements track by $index -->
+				</div>
+			</div>
+			
+			<style scoped="scoped" >
+			@media (max-width : 480px) {
+				.fc_modal-dialog-10 .fc-pagination-cover .fc-pagination
+				{
+					background-color: none !important;
+				}
+			}
+						.formcraft-css .fc-form.fc-form-10 .form-element .submit-cover .submit-button,
+			.formcraft-css .fc-form.fc-form-10 .form-element .fileupload-cover .button-file,
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover .button,
+			.formcraft-datepicker .ui-datepicker-header,
+			.formcraft-datepicker .ui-datepicker-title
+			{
+				background: #b20000;
+				color: #fff;
+			}
+			.formcraft-datepicker td .ui-state-active,
+			.formcraft-datepicker td .ui-state-hover,
+			.formcraft-css .fc-form.fc-form-10 .form-element .slider-cover .ui-slider-range
+			{
+				background: #b20000;
+			}
+			#ui-datepicker-div.formcraft-datepicker .ui-datepicker-header,
+			.formcraft-css .fc-form .field-cover>div.full hr
+			{
+				border-color: #9c0000;
+			}
+			#ui-datepicker-div.formcraft-datepicker .ui-datepicker-prev:hover,
+			#ui-datepicker-div.formcraft-datepicker .ui-datepicker-next:hover,
+			#ui-datepicker-div.formcraft-datepicker select.ui-datepicker-month:hover,
+			#ui-datepicker-div.formcraft-datepicker select.ui-datepicker-year:hover
+			{
+				background-color: #9c0000;
+			}
+			.formcraft-css .fc-pagination>div.active .page-number,
+			.formcraft-css .form-cover-builder .fc-pagination>div:first-child .page-number
+			{
+				background-color: #81d742;
+				color: #fff;
+			}
+			#ui-datepicker-div.formcraft-datepicker table.ui-datepicker-calendar th,
+			#ui-datepicker-div.formcraft-datepicker table.ui-datepicker-calendar td.ui-datepicker-today a,
+			.formcraft-css .fc-form.fc-form-10 .form-element .star-cover label,
+			html .formcraft-css .fc-form.label-floating .form-element .field-cover.has-focus>span,
+			.formcraft-css .fc-form.fc-form-10 .form-element .customText-cover a,
+			.formcraft-css .prev-next>div span:hover
+			{
+				color: #b20000;
+			}
+			.formcraft-css .fc-form.fc-form-10 .form-element .customText-cover a:hover
+			{
+				color: #9c0000;
+			}
+			html .formcraft-css .fc-form.fc-form-10.label-floating .form-element .field-cover > span
+			{
+				color: #000000;
+			}
+			html .formcraft-css .fc-form .final-success .final-success-check {
+				border: 2px solid #000000;
+			}
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="text"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="email"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="password"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="tel"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover textarea,
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover select,
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover .time-fields-cover,
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover .awesomplete ul
+			{
+				color: #000000;
+			}
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="text"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="password"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="email"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="radio"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="checkbox"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="tel"],
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover select,
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover textarea
+			{
+				background-color: #ffffff;
+			}
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="radio"]:checked,
+			.formcraft-css .fc-form.fc-form-10 .form-element .field-cover input[type="checkbox"]:checked {
+				border-color: #9c0000;
+				background: #b20000;				
+			}
+			.formcraft-css .fc-form.fc-form-10 .form-element .star-cover label .star
+			{
+				text-shadow: 0px 1px 0px #9c0000;
+			}
+			.formcraft-css .fc-form.fc-form-10 .form-element .slider-cover .ui-slider-range
+			{
+				box-shadow: 0px 1px 1px #9c0000 inset;
+			}
+			.formcraft-css .fc-form.fc-form-10 .form-element .fileupload-cover .button-file
+			{
+				border-color: #9c0000;
+			}
+			.formcraft-css .fc-form.fc-form-10 .form-element .form-element-html input[type="password"]:focus,
+			.formcraft-css .fc-form.fc-form-10 .form-element .form-element-html input[type="email"]:focus,
+			.formcraft-css .fc-form.fc-form-10 .form-element .form-element-html input[type="tel"]:focus,
+			.formcraft-css .fc-form.fc-form-10 .form-element .form-element-html input[type="text"]:focus,
+			.formcraft-css .fc-form.fc-form-10 .form-element .form-element-html textarea:focus,
+			.formcraft-css .fc-form.fc-form-10 .form-element .form-element-html select:focus
+			{
+				border-color: #b20000;
+			}
+			.formcraft-css .fc-form.fc-form-10 .form-element .form-element-html .field-cover .is-read-only:focus {
+				border-color: #ccc;
+			}
+			.formcraft-css .fc-form.fc-form-10			{
+				font-family: inherit;
+			}
+			@media (max-width : 480px) {
+				html .dedicated-page,
+				html .dedicated-page .formcraft-css .fc-pagination > div.active
+				{
+					background: none;
+				}
+			}
+		</style>
+		<div class="form-cover">
+			<form data-auto-scroll="" data-no-message-redirect="" data-thousand="" data-decimal="." data-delay="" data-id="10" class="fc-form fc-form-10 align- fc-temp-class save-form- dont-submit-hidden- disable-enter- label-block field-border-visible frame-visible remove-asterisk-true icons-hide-true field-alignment-left" style="width: 800px; color: #000000; font-size: 100%; background: none">
+				<!-- ngRepeat: page in Builder.FormElements track by $index --><div class="form-page form-page-0" data-index="0">
+					
+					<div class="form-page-content      ng-not-empty">
+						<div data-identifier="field1" data-index="0" style="width: 50%; position: relative; z-index: 101; left: 0px; top: 0px" class=" form-element form-element-field1 options-false form-element-0 default-false form-element-type-oneLineText is-required-true odd -handle">
+							<div class="form-element-html"><div ><label class="oneLineText-cover field-cover "><span class="sub-label-false"><span class="main-label"><span >Nume</span></span><span class="sub-label"></span></span><div><span class="error"></span><input type="text" placeholder="" make-read-only="false" data-field-id="field1" name="field1[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="true" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" data-original-title=""><i class="formcraft-icon formcraft-icon-type-"></i></div></label></div></div>
+							
+						</div><div data-identifier="field2" data-index="1" style="width: 50%" class=" even form-element form-element-field2 options-false form-element-1 default-false form-element-type-email is-required-true -handle">
+							<div class="form-element-html"><div ><label class="email-cover field-cover "><span class="sub-label-true"><span class="main-label"><span >Email</span></span><span class="sub-label"></span></span><div><span class="error"></span><input placeholder="" data-field-id="field2" type="text" data-val-type="email" make-read-only="" data-is-required="true" name="field2" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-original-title=""><i class="formcraft-icon">email</i></div></label></div></div>
+							
+						</div><div data-identifier="field3" data-index="2" style="width: 50%" class=" form-element form-element-field3 options-false form-element-2 default-false form-element-type-oneLineText is-required-true odd -handle">
+							<div class="form-element-html"><div ><label class="oneLineText-cover field-cover "><span class="sub-label-false"><span class="main-label"><span >Telefon</span></span><span class="sub-label"></span></span><div><span class="error"></span><input type="text" placeholder="" make-read-only="false" data-field-id="field3" name="field3[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="true" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" data-original-title=""><i class="formcraft-icon formcraft-icon-type-"></i></div></label></div></div>
+							
+						</div><div data-identifier="field4" data-index="3" style="width: 50%" class=" even form-element form-element-field4 options-false form-element-3 default-false form-element-type-oneLineText is-required-true -handle">
+							<div class="form-element-html"><div ><label class="oneLineText-cover field-cover "><span class="sub-label-false"><span class="main-label"><span >Companie</span></span><span class="sub-label"></span></span><div><span class="error"></span><input type="text" placeholder="" make-read-only="false" data-field-id="field4" name="field4[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="true" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" data-original-title=""><i class="formcraft-icon formcraft-icon-type-"></i></div></label></div></div>
+							
+						</div><div data-identifier="field5" data-index="4" style="width: 100%" class=" form-element form-element-field5 options-false form-element-4 default-false form-element-type-textarea is-required-true odd -handle">
+							<div class="form-element-html"><div ><label class="textarea-cover field-cover "><span class="sub-label-false"><span class="main-label"><span >Mesaj</span></span><span class="sub-label"></span></span><div><span class="error"></span><textarea data-field-id="field5" placeholder="" class="validation-lenient" name="field5" value="" rows="5" data-min-char="" data-max-char="" data-is-required="true" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-original-title="" style="min-height: 110px"></textarea><div class="count-"><span class="current-count">0</span> / <span class="max-count "></span></div></div></label></div></div>
+							
+						</div><div data-identifier="field8" data-index="5" style="width: 100%" class=" even form-element form-element-field8 options-false form-element-5 default-false form-element-type-checkbox is-required-true -handle">
+							<div class="form-element-html"><div ><div class="images- checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"><span >Am peste 18 ani, am citit si sunt de acord cu Termenii si conditiile Pepas Cloud</span></span><span class="sub-label"></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:" ><img alt=""><input data-field-id="field8" type="radio" data-is-required="true" name="field8[]" value="Prin bifarea acestei casute, sunteti de acord cu prelucrarea datelor cu caracter personal introduse de dumneavoastra in acest formular de contact. Datele sunt stocate pe serverele noastre si vor fi folosite pentru a va raspunde la mesaje cu oferte si pentru viitoare campanii de marketing. Pentru mai multe detalii accesati sectiunea Termeni si Conditii." class="validation-lenient"><span><span >Prin bifarea acestei casute, sunteti de acord cu prelucrarea datelor cu caracter personal introduse de dumneavoastra in acest formular de contact. Datele sunt stocate pe serverele noastre si vor fi folosite pentru a va raspunde la mesaje cu oferte si pentru viitoare campanii de marketing. Pentru mai multe detalii accesati sectiunea Termeni si Conditii.</span></span></label></div></div></div></div>
+							
+						</div><div data-identifier="field6" data-index="6" style="width: 100%" class=" form-element form-element-field6 options-false form-element-6 default-false form-element-type-submit is-required-false odd -handle">
+							<div class="form-element-html"><div ><div class="align-right wide-true submit-cover field-cover"><button type="submit" class="button submit-button"><span class="text ">Programeaza Demo</span><span class="spin-cover"><i style="color:" class="loading-icon icon-cog animate-spin"></i></span></button></div><div class="submit-response "></div><label ><input type="text" class="required_field" name="website" autocomplete="maple-syrup-pot"></label></div></div>
+							
+						</div>
+					</div>
+				</div><!-- end ngRepeat: page in Builder.FormElements track by $index -->
+			</form>
+			<div class="prev-next prev-next-1" style="width: 800px; color: #000000; font-size: 100%; background: none">
+				<div>
+					
+					<span class="inactive page-prev "><i class="formcraft-icon">keyboard_arrow_left</i>Previous</span></div>
+				<div>
+					
+					<span class="page-next ">Next<i class="formcraft-icon">keyboard_arrow_right</i></span></div>
+			</div>
+		</div><a class="powered-by" target="_blank" href="http://formcraft-wp.com/?source=pb"/>FormCraft - WordPress form builder</a></div>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft avertizeaza: o parola puternica nu functioneaza, nici autentificarea standard cu mai multi factori</title>
+		<link>/microsoft-avertizeaza-o-parola-puternica-nu-functioneaza-nici-autentificarea-standard-cu-mai-multi-factori/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2020 15:37:48 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<guid isPermaLink="false">/?p=13722</guid>
+
+					<description><![CDATA[&#160; Alex Weinert &#8211; Director of Identity Security la Microsoft a avertizat cu privire la ineficienta parolelor si, mai recent, cu privire la autentificarea multi-factor standard sau MFA. &#160; Parolele nu prea mai conteaza. La inceputul acestui an, Alex Weinert &#8211; Director of Identity Security la Microsoft, a avertizat ca „PAROLA nu conteaza”, in sensul [...]]]></description>
+										<content:encoded><![CDATA[
+<h4>&nbsp;</h4>
+<p>Alex Weinert &#8211; Director of Identity Security la Microsoft a avertizat cu privire la ineficienta parolelor si, mai recent, cu privire la autentificarea multi-factor standard sau MFA.</p>
+<p>&nbsp;</p>
+<p><strong>Parolele nu prea mai conteaza.</strong></p>
+<p>La inceputul acestui an, Alex Weinert &#8211; Director of Identity Security la Microsoft, a avertizat ca „PAROLA nu conteaza”, in sensul ca a explicat motivele pentru care nici parolele puternice nu sunt neaparat eficiente.</p>
+<p><strong>„Cand vine vorba de compozitie si lungime, parola dumneavoastra (in cea mai mare parte) nu conteaza”</strong>, a spus Weinert de la Microsoft. Ar trebui sa stie ce spune: echipa cu care Alex Weinert lucreaza la Microsoft se confrunta zilnic cu sute de milioane de atacuri si incercari de ”spargere” a parolelor.</p>
+<p>&nbsp;</p>
+<p><strong>„Amintiti-va ca tot ce il intereseaza pe atacator este sa fure parolele</strong>“&#8230;Aceasta este o diferenta esentiala intre securitatea ipotetica si cea practica” &#8211; atacatorul va face lucruri foarte nebunesti si creative despre care auziti la conferinte (sau oriunde) doar atunci cand nu exista o cale mai usoara si tinta atacului justifica efortul suplimentar.” &#8211; Alex Weinert &#8211; Director of Identity Security &#8211; Microsoft</p>
+<p>Cu alte cuvinte, baietii rai vor face tot ce este necesar pentru a va fura parola, iar o parola puternica nu este un obstacol atunci cand infractorii au la dispozitie mult timp si o multime de instrumente mai ales daca miza este mare.</p>
+<p>&nbsp;</p>
+<p>Intr-un <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/your-pa-word-doesn-t-matter/ba-p/731984" target="_blank" rel="noopener noreferrer">tabel</a></span>, el a prezentat o lista de motive pentru care hackerii au adesea succes. De exemplu:</p>
+<p><strong>—Password Breach</strong> &nbsp;&#8211; “spargerea” parolei, adica baietii rai au deja parola dumneavoastra.</p>
+<p>Risc: atacuri masive se intampla tot timpul. Deoarece au deja parola dumneavoastra si deoarece parolele sunt greu de inventat si ajung sa fie reutilizate (62% dintre utilizatori recunosc ca reutilizeaza parolele), hackerii pot intra in mai multe conturi cu aceeasi parola. Peste 20 de milioane de incercari de spargere a conturilor sunt desoperite zilnic in sistemele de identificare Microsoft.</p>
+<p><strong>— „Password Spray”</strong> adica ghicirea parolei &#8211; Sarcina dumneavoastra este sa aveti o parola care nu este usor de ghicit. Partea „buna” la atacurile de tip password spray este ca acest gen de atac este detectabil si odata detectat, serverul de conectare poate bloca conectarea pentru a proteja contul.</p>
+<p>Risc: „Uneori sunt sute de mii de atacuri &#8220;reusite&#8221; pe zi si milioane de incercari de spargere a conturilor zilnic.&#8221;</p>
+<p><strong>—<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/all-your-creds-are-belong-to-us/ba-p/855124" target="_blank" rel="noopener noreferrer">Phishing</a></span></strong>, adica, e-mailuri false &#8211; uneori cu aspect foarte autentic – care par a fi de la o companie de incredere, in care aveti incredere.</p>
+<p>Atacatorii trimit e-mailuri care par a fi de la cineva cunoscut sau promit divertisment ori promotii sau ameninta cu diverse actiuni. E-mailul contine un link si, daca utilizatorul acceseaza linkul, acesta este apoi redirectionat catre site-ul doppelganger (un site fals care arata aproape identic cu cel original) pentru conectare. Cand “victima” introduce date de logare, le dezvaluie de fapt atacatorului. Sunt utilizate Modlishka sau instrumente similare pentru a face acest lucru foarte usor.</p>
+<p>Risc: „functioneaza &#8230; oamenii sunt curiosi sau ingrijorati si ignora semnele de avertizare”.</p>
+<p>&nbsp;</p>
+<p><strong>Solutia</strong> pentru cele de mai sus (un indemn care vizeaza mai mult companiile tehnologice decat utilizatorii): <strong>mizati mai mult pe biometrie</strong>, cum ar fi amprenta digitala (sau o „amprenta cognitiva” *), identificarea vocala sau a fetei, potrivit Mountain View, California Synopsys, care, printre altele, este implicat in securitatea software-ului. „Aceste mecanisme de recunoastere sunt stocate numai pe dispozitivul utilizatorului. Parolele sunt „secrete partajate” care se afla atat pe dispozitiv, cat si pe un server care, dupa cum stim cu totii, pot fi compromise, a spus Synopsys.</p>
+<p>* O amprenta cognitiva ar combina diverse comportamente, cum ar fi modul de apasare a tastelor, utilizarea mouse-ului, structura propozitiei si utilizarea limbajului.</p>
+<p>Dar Synopsys adauga si acest lucru: daca va faceti parolele lungi si complicate, utilizati un amestec de litere, simboluri si punctuatie, va schimbati periodic parola si nu utilizati aceeasi parola pentru mai multe conturi, veti fi mai bine protejati decat majoritatea utilizatorilor, veti fi mai greu de atacat.</p>
+<p>&nbsp;</p>
+<p><strong>Nici autentificarea multi-factor bazata pe telefon (sms) nu este sigura:</strong></p>
+<p>MFA (Multi-Factor Authentication) bazat pe telefonie, pe sms, denumite retele telefonice cu comutare publica sau PSTN, nu este sigur, potrivit Weinert.</p>
+<p>(Ce este MFA standard? Este atunci cand, de exemplu, o banca va trimite un cod de verificare printr-un mesaj text.)</p>
+<p>„Cred ca sunt cele mai putin sigure dintre metodele MFA disponibile astazi”, a scris Weinert intr-un blog (prin ZDNet).</p>
+<p>„Cand s-au dezvoltat protocoale SMS (mesaje text) si vocale, acestea au fost proiectate fara criptare &#8230; ceea ce inseamna ca semnalele pot fi interceptate de oricine poate avea acces la reteaua de comutare sau in raza de actiune a unui dispozitiv,” a scris Weinert.</p>
+<p>&nbsp;</p>
+<p><strong>Solutie: utilizati autentificarea bazata pe aplicatii cum ar fi de exemplu, Microsoft Authenticator sau alte aplicatii similare</strong>. O aplicatie este mai sigura, deoarece nu se bazeaza pe operatorul dumneavoastra de telefonie. Codurile se afla in aplicatia insasi si expira rapid.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ce este nou la Microsoft Teams &#124; Aprilie – Mai 2020</title>
+		<link>/ce-este-nou-la-microsoft-teams-aprilie-mai-2020/</link>
+		
+		<dc:creator><![CDATA[Camelia Toma]]></dc:creator>
+		<pubDate>Sat, 09 May 2020 10:25:30 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Cat Costa Microsoft Teams]]></category>
+		<category><![CDATA[Inregistrarea Apelurilor Teams]]></category>
+		<category><![CDATA[Microsoft Teams]]></category>
+		<category><![CDATA[New Features Teams]]></category>
+		<category><![CDATA[Power Automate in Teams]]></category>
+		<category><![CDATA[Teams Background Effects]]></category>
+		<category><![CDATA[Teams Meeting]]></category>
+		<category><![CDATA[Videoconferinta]]></category>
+		<guid isPermaLink="false">/?p=13117</guid>
+
+					<description><![CDATA[Microsoft anunta introducerea unor noi functionalitati ale aplicatiei Teams. Pe masura ce tot mai multe afaceri si scoli din intreaga lume functioneaza remote &#160;pentru siguranta si bunastarea angajatilor si elevilor / studentilor lor, Microsoft Teams joaca un rol esential in a-i ajuta sa ramana conectati prin intalniri video, apeluri si chat-uri. Microsoft anunta introducerea unor [...]]]></description>
+										<content:encoded><![CDATA[
+<h1><span style="color: #000000;">Microsoft anunta introducerea unor noi functionalitati ale aplicatiei Teams.</span></h1>
+<p>Pe masura ce tot mai multe afaceri si scoli din intreaga lume functioneaza remote &nbsp;pentru siguranta si bunastarea angajatilor si elevilor / studentilor lor, Microsoft Teams joaca un rol esential in a-i ajuta sa ramana conectati prin intalniri video, apeluri si chat-uri.</p>
+<p>Microsoft anunta introducerea unor noi functionalitati ale aplicatiei Teams pentru a imbunatati experienta utilizatorilor. Citeste mai departe pentru a vedea ce este nou.</p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Ce este nou: Intalniri si apeluri (Meetings &amp; Calling)</span></h2>
+<p><span style="color: #000000;"><em>Cresterea numarului de videoclipuri simultane in sedintele echipelor (Increase in the number of simultaneous videos in Teams meetings)</em></span></p>
+<p>Conversatiile virtuale fata in fata sunt noua rutina pentru lucrul la distanta, iar acum mai mult decat oricand este important sa te simti conectat cu cei pe care ii intalnesti.</p>
+<p>Microsoft <span style="color: #000000;"><strong>creste numarul de participanti</strong> <strong>care pot fi vizionati simultan</strong></span> in timpul unei intalniri prin Teams<span style="color: #000000;"> <strong>de la 4 la 9</strong>.</span></p>
+<p>Aceasta noua experienta este optimizata pentru participantii care au activat optiunea de videoconferinta si plaseaza participantii care au activat doar audioconferinta in plan secund. Pentru a oferi o experienta de inalta calitate audio si video, aspectul se va adapta, in functie de latimea de banda a utilizatorului si va modifica numarul de videoclipuri afisate pentru a oferi cea mai cea mai buna calitate.</p>
+<p>Aceasta caracteristica a inceput sa se extinda. Daca inca nu apare pe dispozitivul tau, stai linistit, va aparea in curand, deoarece este o desfasurare (lansare) &nbsp;etapizata si poate dura pana la cateva saptamani pentru a ajunge la toata lumea.</p>
+<p><img class="alignnone size-full wp-image-13120" src="/wp-content/uploads/2020/05/new-raise-hands-feature-in-Teams.jpg" alt="Optiunea Ridica Mana in Microsoft Teams" width="999" height="561" srcset="/wp-content/uploads/2020/05/new-raise-hands-feature-in-Teams.jpg 999w, /wp-content/uploads/2020/05/new-raise-hands-feature-in-Teams-600x337.jpg 600w, /wp-content/uploads/2020/05/new-raise-hands-feature-in-Teams-712x400.jpg 712w, /wp-content/uploads/2020/05/new-raise-hands-feature-in-Teams-768x431.jpg 768w" sizes="(max-width: 999px) 100vw, 999px" /></p>
+<h2><span style="font-size: 75%; color: #000000;">Ridica mana (Raise Hands)</span></h2>
+<p><span style="color: #000000;"><em>Noua caracteristica „Ridica mana” in Teams permite participantilor la intalnire sa semnaleze ca doresc sa vorbeasca, facand mai usoara participarea activa la intalniri mari.</em></span></p>
+<p>Toata lumea va vedea o nota vizuala asupra participantilor &#8211; precum si in lista de participanti care acorda prioritate celui care a ridicat mana mai intai &#8211; si le poate da posibilitatea sa participe la conversatie.</p>
+<p>Este o functie noua si va aparea la inceputul lunii mai.</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-13121" src="/wp-content/uploads/2020/05/Change-Background-feature-in-Microsoft-Teams-2020.jpg" alt="Optiunea de schimbare a fundalului in Microsoft Teams" width="1100" height="329" srcset="/wp-content/uploads/2020/05/Change-Background-feature-in-Microsoft-Teams-2020.jpg 1100w, /wp-content/uploads/2020/05/Change-Background-feature-in-Microsoft-Teams-2020-600x179.jpg 600w, /wp-content/uploads/2020/05/Change-Background-feature-in-Microsoft-Teams-2020-800x239.jpg 800w, /wp-content/uploads/2020/05/Change-Background-feature-in-Microsoft-Teams-2020-768x230.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h2><span style="font-size: 75%; color: #000000;">Efecte de fundal (Background effects)</span></h2>
+<p><span style="color: #000000;"><em>Mentine atentia asupra ta, ceea ce e in spatele tau nu trebuie sa distraga interlocutorii. </em></span></p>
+<p>In plus fata de functia de estompare (blur) a fundalului, care devine din ce in ce mai populara, Teams ofera acum un nou efect de fundal. Aceasta noua caracteristica permite participantilor la intalnirile online sa isi particularizeze fundalul, alegand o imagine dintr-o lista de imagini preselectate. In curand utilizatorii vor putea incarca propriile imagini pentru a fi folosite ca fundal in timpul videoconferintelor.</p>
+<p><img class="alignnone size-full wp-image-13122" src="/wp-content/uploads/2020/05/Blur-Background-Microsoft-Teams.jpg" alt="" width="227" height="497" srcset="/wp-content/uploads/2020/05/Blur-Background-Microsoft-Teams.jpg 227w, /wp-content/uploads/2020/05/Blur-Background-Microsoft-Teams-183x400.jpg 183w" sizes="(max-width: 227px) 100vw, 227px" /></p>
+<h2><span style="font-size: 75%; color: #000000;">Estomparea fundalului pentru iOS (Background Blur for iOS)</span></h2>
+<p>Aceasta caracteristica frecvent utilizata pe desktop poate fi acum folosita si pe iPhone si iPad.</p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Subtitrari live in iOS si Android</span></h2>
+<p>Indiferent care este motivul pentru care nu auzi bine ceea se se discuta in cadrul intalnirilor online, subtitrarile live iti vor permite sa urmaresti si sa citesti ceea ce se discuta in timpul conferintelor prin Teams. Subtitrarile live sunt acum disponibile pe dispozitivele mobile iOS si Android in limba engleza.</p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Creste limita de participanti la Microsoft 365 Live Event</span></h2>
+<p>Pentru a ajuta clientii sa raspunda nevoilor de comunicare in continua schimbare, evenimentele live Microsoft 365 vor ridica temporar limitele implicite pana la 1 iulie 2020 pentru evenimentele live gazduite in Teams, Stream si Yammer. Urmatoarele cresteri vor incepe sa fie lansate la inceputul lunii mai:</p>
+<p><em><span style="color: #000000;"><strong>Limita participantilor:</strong></span> evenimentele pot accepta pana la <span style="color: #000000;"><strong>20.000 de participanti</strong> </span>(live events can support up to 20,000 attendees)</em></p>
+<p><em><span style="color: #000000;"><strong>Evenimente simultane:</strong> <strong>50 de evenimente pot fi gazduite simultan</strong></span> de pe acelasi cont (50 events can be hosted simultaneously across a tenant) </em></p>
+<p><em><span style="color: #000000;"><strong>Durata evenimentului:</strong></span> durata evenimentului a fost marita la <span style="color: #000000;"><strong>16 ore per difuzare</strong></span></em></p>
+<p>In plus, Microsoft anunta recent suport pentru pana la 100.000 de participanti la eveniment parteneriat cu programul de asistenta a evenimentelor live. (support for up to 100,000 event attendees partnership with the Live Events Assistance Program)</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-13123" src="/wp-content/uploads/2020/05/Share-System-Audio-in-Teams-Conference.jpg" alt="Partajarea Sunetului de Sistem in Teams" width="999" height="690" srcset="/wp-content/uploads/2020/05/Share-System-Audio-in-Teams-Conference.jpg 999w, /wp-content/uploads/2020/05/Share-System-Audio-in-Teams-Conference-600x414.jpg 600w, /wp-content/uploads/2020/05/Share-System-Audio-in-Teams-Conference-579x400.jpg 579w, /wp-content/uploads/2020/05/Share-System-Audio-in-Teams-Conference-768x530.jpg 768w" sizes="(max-width: 999px) 100vw, 999px" /></p>
+<h2><span style="font-size: 75%; color: #000000;">Partajarea sunetului de sistem in evenimente live Teams (Share system audio in Teams live events)</span></h2>
+<p>Cu partajarea audio in evenimente live, participantii vor auzi sunetul continutului pe care il partajezi pe ecran. Aceasta caracteristica functioneaza la fel ca partajarea sunetului din sistem in intalnirile Teams si este excelenta pentru partajarea experientelor audio si video cu participantii. Optiunea de partajare a sunetului de sistem poate fi utilizata doar de cel care initiaza evenimentul live de pe un dispozitiv Windows Desktop.</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-13124" src="/wp-content/uploads/2020/05/End-Meeting-for-all-Teams-participants.jpg" alt="Incheierea intalnirii pentru toti participantii Teams" width="656" height="556" srcset="/wp-content/uploads/2020/05/End-Meeting-for-all-Teams-participants.jpg 656w, /wp-content/uploads/2020/05/End-Meeting-for-all-Teams-participants-600x509.jpg 600w, /wp-content/uploads/2020/05/End-Meeting-for-all-Teams-participants-472x400.jpg 472w" sizes="(max-width: 656px) 100vw, 656px" /></p>
+<h2><span style="font-size: 75%; color: #000000;">Incheierea intalnirii pentru toti participantii (end meeting for all participants)</span></h2>
+<p>Organizatorii intalnirii pot incheia intalnirea printr-o simpla apasare de buton. In bara de control a intalnirii, numai organizatorii intalnirii vor vedea un buton pe care scrie “end meeting”. Toti participantii ies din intalnire atunci cand organizatorul apasa acest buton. Un exemplu excelent de scenariu relevant este in educatie: in unele situatii, reuniunile de clasa nu ar trebui sa continue dupa ce clasa se termina fara supravegherea profesorilor.</p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Inregistrarea apelurilor 1:1 (1:1 Call Recording)</span></h2>
+<p>Acum poti inregistra cu usurinta apelurile 1:1 in Teams la fel cum poti deja pentru intalniri. Pur si simplu selecteaza optiunea de a inregistra apelul si participantii vor fi notificati pe ecranul lor ca a inceput o inregistrare! Afla mai multe <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://support.office.com/ro-ro/article/%c3%aenregistra%c8%9bi-o-%c3%aent%c3%a2lnire-%c3%aen-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24?ui=ro-RO&amp;rs=ro-RO&amp;ad=RO" target="_blank" rel="noopener noreferrer">aici</a>.</span></p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-13125" src="/wp-content/uploads/2020/05/The-new-Teams-Meetings-Dashboard.jpg" alt="Noul tablou de bord Microsoft Teams" width="907" height="569" srcset="/wp-content/uploads/2020/05/The-new-Teams-Meetings-Dashboard.jpg 907w, /wp-content/uploads/2020/05/The-new-Teams-Meetings-Dashboard-600x376.jpg 600w, /wp-content/uploads/2020/05/The-new-Teams-Meetings-Dashboard-638x400.jpg 638w, /wp-content/uploads/2020/05/The-new-Teams-Meetings-Dashboard-768x482.jpg 768w" sizes="(max-width: 907px) 100vw, 907px" /></p>
+<h2><span style="font-size: 75%; color: #000000;">Noutati: Administrator IT</span></h2>
+<h2><span style="font-size: 75%; color: #000000;">Noul tablou de bord al intalnirilor (Introducing the new Meetings Dashboard)</span></h2>
+<p>Noul tablou de bord din centrul de administrare Microsoft Teams te ajuta sa te asiguri ca utilizatorii au cea mai buna experienta posibila in timpul videoconferintelor si apelurilor, oferindu-ti informatii despre utilizare, feedback-ul utilizatorilor, starea de sanatate a retelei, detaliile intalnirii, dispozitive si multe altele dintr-un singur loc. Utilizand capacitatile Power BI, acest tablou de bord interactiv iti va permite sa filtrezi informatiile dupa indicatori precum ziua, tarile si platforma, permitandu-ti sa identifici rapid zonele care au nevoie de imbunatatiri si sa detaliezi pentru a descoperi cauza principala a experientelor slabe.</p>
+<p>Pentru clientii care au nevoi sau cerinte deosebite, in curand va fi lansat un API care va permite clientilor si partenerilor sa exporte date despre intalnirile online si apelurile initiate prin Teams.</p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Controleaza setarile imaginii de profil in Teams (Control profile picture settings on Teams)</span></h2>
+<p>Variantele Teams pentru web si desktop recunosc acum <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://docs.microsoft.com/en-us/powershell/module/exchange/client-access/set-owamailboxpolicy?view=exchange-ps" target="_blank" rel="noopener noreferrer">setarile Outlook</a> </span>prin care se poate controla daca un utilizator isi poate schimba sau nu poza de profil. Administratorii pot configura aceasta setare de politica pentru a promova un mediu de lucru sau de scoala mai sigur, impiedicand utilizarea continutului neadecvat in imaginile de profil.</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-13126" src="/wp-content/uploads/2020/05/Management-Analytics-and-Reports-in-Teams.jpg" alt="Functia de analiza si rapoarte Teams" width="999" height="562" srcset="/wp-content/uploads/2020/05/Management-Analytics-and-Reports-in-Teams.jpg 999w, /wp-content/uploads/2020/05/Management-Analytics-and-Reports-in-Teams-600x338.jpg 600w, /wp-content/uploads/2020/05/Management-Analytics-and-Reports-in-Teams-711x400.jpg 711w, /wp-content/uploads/2020/05/Management-Analytics-and-Reports-in-Teams-768x432.jpg 768w" sizes="(max-width: 999px) 100vw, 999px" /></p>
+<h2><span style="font-size: 75%; color: #000000;">Functia de analiza si rapoarte. Obtine informatii despre utilizarea aplicatiei Teams in organizatia ta.(Get insights into Teams app usage in your environment)</span></h2>
+<p><span style="color: #000000;"><em>Functia de analiza si rapoarte a aplicatiei Teams va oferi administratorilor informatii despre utilizarea Teams permitandu-le sa evalueze riscurile si sa ia decizii informate. </em></span></p>
+<p>Administratorii vor putea vedea cati utilizatori sau echipe de utilizatori folosesc aplicatia si cat de des. In plus, politicile si setarile aplicatiilor permit administratorilor sa gestioneze permisiunile, sa defineasca modul in care sunt afisate alte aplicatii in timpul folosirii aplicatiei Teams si sa controleze disponibilitatea aplicatiilor personalizate.</p>
+<p>&nbsp;</p>
+<h2><img class="alignnone size-full wp-image-13127" src="/wp-content/uploads/2020/05/batch-policy-assignment-Microsoft-Teams.png" alt="Politici de grup in Teams" width="998" height="134" srcset="/wp-content/uploads/2020/05/batch-policy-assignment-Microsoft-Teams.png 998w, /wp-content/uploads/2020/05/batch-policy-assignment-Microsoft-Teams-600x81.png 600w, /wp-content/uploads/2020/05/batch-policy-assignment-Microsoft-Teams-800x107.png 800w, /wp-content/uploads/2020/05/batch-policy-assignment-Microsoft-Teams-768x103.png 768w" sizes="(max-width: 998px) 100vw, 998px" /></h2>
+<h2><span style="font-size: 75%; color: #000000;">Atribuie cu usurinta un set de politici unui grup mare de utilizatori (Easily assign a policy to a large group of users)</span></h2>
+<p>Microsoft Teams ofera un set robust de politici care da posibilitatea administratorilor sa adapteze si sa eficientizeze aplicatia in functie de situatie si de nevoile organizatiei. Atribuirea politicii pe un grup permite administratorilor sa simplifice procesul de atribuire a politicilor sau a <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://docs.microsoft.com/en-us/microsoftteams/manage-policy-packages" target="_blank" rel="noopener noreferrer">pachetelor de politici</a> </span>unui grup mare de utilizatori. “CsBatchPolicyAssignmentOperation cmdlet” iti permite sa desemnezi un lot de utilizatori si o politica pe care doresti sa o implementezi utilizand o linie de comanda in PowerShell pentru a efectua actiunea. Un grup poate contine pana la 20.000 de utilizatori si administratorii pot specifica utilizatorii dupa ID-ul lor, numele principal de utilizator (UPN), adresa Protocolului de initiere a sesiunii sau adresa de e-mail. Afla mai multe despre atribuirea politicilor in Teams <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://docs.microsoft.com/en-us/microsoftteams/assign-policies#assign-a-policy-to-a-batch-of-users" target="_blank" rel="noopener noreferrer">aici</a>.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Noutati in controlul intalnirilor (New Meeting Control)</span></h2>
+<p><span style="color: #000000;"><em>Setarea implicita a lobby-ului (default lobby setting).</em></span></p>
+<p>Acum utilizatorii externi vor astepta in “lobby” inainte de a se alatura unei intalnirii, astfel organizatorul intalnirii se va asigura ca numai persoanele potrivite vor lua parte la intalnirea respectiva. Aceasta modificare de politica va avea efect numai asupra conturilor care nu au modificat politica de intalniri (default meetings policy).</p>
+<p><img class="alignnone size-full wp-image-13128" src="/wp-content/uploads/2020/05/Default-lobby-settings-meeting-policy-Teams.png" alt="setari implicite lobby Microsoft Teams" width="805" height="264" srcset="/wp-content/uploads/2020/05/Default-lobby-settings-meeting-policy-Teams.png 805w, /wp-content/uploads/2020/05/Default-lobby-settings-meeting-policy-Teams-600x197.png 600w, /wp-content/uploads/2020/05/Default-lobby-settings-meeting-policy-Teams-800x262.png 800w, /wp-content/uploads/2020/05/Default-lobby-settings-meeting-policy-Teams-768x252.png 768w" sizes="(max-width: 805px) 100vw, 805px" /></p>
+<h2><span style="font-size: 75%; color: #000000;">Setari lobby pentru participantii PSTN (Lobby settings for PSTN participants)</span></h2>
+<p>Orice utilizator care programeaza o intalnire Microsoft Teams va vedea acum o setare separata pentru a controla lobby-ul pentru participantii la conferintele audio (PSTN) din pagina Optiuni (Meeting Options) a unei anumite intalniri. In plus, ei vor vedea, de asemenea, o noua optiune pentru a controla sunetul care anunta cand un PSTN / dial-in participant se alatura sau paraseste intalnirea.</p>
+<p><img class="alignnone size-full wp-image-13129" src="/wp-content/uploads/2020/05/lobby-settings-for-PSTN-Microsoft-Teams.png" alt="Setari lobby pentru participantii PSTN in Teams" width="576" height="479" srcset="/wp-content/uploads/2020/05/lobby-settings-for-PSTN-Microsoft-Teams.png 576w, /wp-content/uploads/2020/05/lobby-settings-for-PSTN-Microsoft-Teams-510x424.png 510w, /wp-content/uploads/2020/05/lobby-settings-for-PSTN-Microsoft-Teams-481x400.png 481w" sizes="(max-width: 576px) 100vw, 576px" /></p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Ce este nou: Chat &amp; Collaboration</span></h2>
+<h2><span style="font-size: 75%; color: #000000;">Aplicatia Yammer pentru Microsoft Teams este acum disponibila! (The Yammer app for Microsoft Teams is now available!)</span></h2>
+<p>Noua aplicatie Yammer pentru Microsoft Teams permite o experienta Yammer complet interactiva in hub-ul pentru lucrul in echipa, ajutandu-te sa ramai conectat la ceea ce se intampla in organizatia ta. Te poti conecta cu comunitatile (echipele) tale din Yammer direct in cadrul Microsoft Teams. Urmareste evenimente live (live events), distribuie anunturi, identifica conversatii si marcheaza cele mai bune raspunsuri la fel cum ai face in Yammer. Nu mai este nevoie sa treci de la o aplicatie la alta.</p>
+<p><img class="alignnone size-full wp-image-13134" src="/wp-content/uploads/2020/05/Pin-Yammer-in-Teams.jpg" alt="" width="500" height="500" srcset="/wp-content/uploads/2020/05/Pin-Yammer-in-Teams.jpg 500w, /wp-content/uploads/2020/05/Pin-Yammer-in-Teams-100x100.jpg 100w, /wp-content/uploads/2020/05/Pin-Yammer-in-Teams-400x400.jpg 400w, /wp-content/uploads/2020/05/Pin-Yammer-in-Teams-280x280.jpg 280w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Pur si simplu adauga si fixeaza (pin) aplicatia Yammer pe calea de navigare si vei avea Yammer in Teams. Mai multe detalii <a href="https://techcommunity.microsoft.com/t5/yammer-blog/the-yammer-app-for-microsoft-teams-is-now-available/ba-p/1320286" target="_blank" rel="noopener noreferrer">aici</a></p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Ce este nou: Noi declansatoare si automatizari Power Automate in Teams (What’s New: Additional Power Automate triggers for Teams)</span></h2>
+<p><span style="color: #000000;">Simplifica sarcinile de rutina in Microsoft Teams cu doua noi declansatoare Power Automate.</span> Declanseaza actiuni atunci cand un nou coechipier se alatura &#8211; fie ca este vorba de crearea unui mesaj de bun venit sau de partajarea materialelor de inscriere.</p>
+<p><span style="color: #000000;">Utilizatorii pot construi fluxuri direct in Teams</span> folosind aceste noi declansatoare (triggers), chiar daca acestea declanseaza actiuni in afara aplicatiei Teams.</p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Ce este nou: Teams pentru educatie (invatamant)</span></h2>
+<h2><span style="font-size: 75%; color: #000000;">Intalniri online in Teams pentru invatarea la distanta (Teams meetings for remote learning)</span></h2>
+<p>In ciuda inchiderii scolilor, profesorii pot ramane conectati cu elevii lor si pot sustine in continuare orele de curs prin intalniri online cu Microsoft Teams. Iata cele mai recente indrumari privind modul de eficientizare a invatarii si mentinerea in siguranta a elevilor in cadrul conferintelor prin Microsoft Teams.</p>
+<ul>
+<li>Afla care sunt cele mai noi functionalitati si care sunt cele mai utile pentru intalnirile cu elevii in cadrul acestui <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=W-La0cigkqg&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer">webinar</a></span></li>
+<li>Configureaza o intalnire in Microsoft Teams pentru sala de clasa online direct din Canvas, Blackboard, Schoology si alte LMS-uri. Invata cum sa faci asta din acest <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://educationblog.microsoft.com/en-us/2020/03/microsoft-teams-meeting-creation-now-available-in-canvas-blackboard-schoology-brightspace-and-itslearning/" target="_blank" rel="noopener noreferrer">ghid</a></span></li>
+<li>Asigura-te ca elevii sunt in siguranta in cadrul sedintelor Teams urmand aceste <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://support.office.com/en-us/article/keeping-students-safe-while-using-meetings-in-teams-for-distance-learning-f00fa399-0473-4d31-ab72-644c137e11c8?ui=en-US&amp;rs=en-US&amp;ad=US#ID0EBBAAA=For_educators" target="_blank" rel="noopener noreferrer">recomandari</a></span></li>
+</ul>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Evenimente live pentru licentele A1 (Live events for A1 faculty licenses)</span></h2>
+<p>De la inceputul lunii mai, capacitatile de gazduire a evenimentelor live (live events) Microsoft Teams vor fi disponibile si utilizatorilor din invatamant cu o licenta Microsoft Office 365 A1, fara costuri suplimentare. Asta inseamna ca utilizatorii cu licente Microsoft <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.microsoft.com/ro-ro/microsoft-365/academic/compare-office-365-education-plans?market=ro" target="_blank" rel="noopener noreferrer">Office 365 A1</a>,</span> care sunt gratuite pentru institutiile de invatamant acreditate, pot gazdui si difuza evenimente live. La inceputul lunii mai, evenimentele live vor fi activate automat pentru utilizatorii cu licenta A1 si vor fi dezactivate automat la 1 iulie 2020.</p>
+<p>&nbsp;</p>
+<p>Iata o <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://docs.microsoft.com/en-us/microsoftteams/teams-live-events/what-are-teams-live-events" target="_blank" rel="noopener noreferrer">prezentare generala tehnica</a> </span>si un<span style="color: #0000ff;"> <a style="color: #0000ff;" href="https://support.office.com/en-us/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a" target="_blank" rel="noopener noreferrer">ghid introductiv</a></span> pentru a afla mai multe despre evenimentele live Microsoft Teams (Microsoft Teams live events) .</p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Cum obtii Microsoft Teams si cat costa?</span></h2>
+<p>Cea mai importanta caracteristica a Microsoft Teams este aceea ca poate deveni one stop shop, ceea ce inseamna ca poate integra celelalte aplicatii din suita Microsoft 365.&nbsp;<strong><span style="color: #000000;">Deci daca ai deja unul din planurile (abonamentele)</span>&nbsp;</strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="/solutii-cloud/" target="_blank" rel="noopener noreferrer"><strong>Microsoft 365</strong></a></span><strong><span style="color: #0000ff;">,</span><span style="color: #000000;"> deja ai Teams.</span></strong></p>
+<p><span style="color: #000000;"><strong>Daca esti persoana juridica iti oferim Microsoft Teams gratuit timp de 6 luni.</strong></span></p>
+<p>Pepas Cloud iti ofera, in parteneriat cu Microsoft,&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="/shop/microsoft-cloud/microsoft-365/office-365-enterprise-e1/" target="_blank" rel="noopener noreferrer">Office 365 Enterprise E1</a></span>&nbsp;Trial timp 6 luni. Daca esti interesat de Microsoft 365, iti oferim licenta gratuit timp de 3 luni la nivelul pachetului&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="/shop/microsoft-cloud/microsoft-365/microsoft-365-business-standard/" target="_blank" rel="noopener noreferrer">Microsoft 365 Business Standard</a>.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p>Institutiile de invatamant acreditate de Ministerul Educatiei, birourile de administrare ale acestora precum si bibliotecile si muzeele publice vor primi gratuit, pe o perioada nelimitata, licenta de <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.microsoft.com/ro-ro/microsoft-365/academic/compare-office-365-education-plans?market=ro" target="_blank" rel="noopener noreferrer">Office 365 A1</a>.</span> Tot ce trebuie sa faca este&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="/contact/" target="_blank" rel="noopener noreferrer">sa ia legatura cu Pepas Cloud</a>&nbsp;</span>si sa isi exprime dorinta de a folosi Microsoft/Office 365.</p>
+<p>&nbsp;</p>
+<h2><span style="font-size: 75%; color: #000000;">Cat costa Microsoft Teams dupa perioada de gratuitate?</span></h2>
+<p><em><span style="color: #000000;">Ar fi pacat sa privesti Teams ca pe o aplicatie singulara, ai pierde din vedere perfecta integrare cu celelalte aplicatii Microsoft – cum ar fi serviciul de mail, pachetul Office, spatiul de stocare in cloud (OneDrive) sau platforma de intranet (SharePoint).</span></em></p>
+<p>Un pachet care sa le includa pe toate acestea porneste de la 4.20 € + T.V.A. pe luna per utilizator, dupa perioada de gratuitate.</p>
+<p><em><span style="color: #000000;">In functie de ce nevoi si particularitati are afacerea ta, dupa ce stam de vorba si ne spui mai multe despre modul de lucru in cadrul afacerii tale, te vom sfatui care din abonamentele Microsoft este cel mai potrivit pentru tine.</span></em></p>
+<p>La<span style="color: #0000ff;"> <a style="color: #0000ff;" href="/faq/" target="_blank" rel="noopener noreferrer">Pepas Cloud</a></span> ajutam din ce in ce mai multi clienti sa treaca de la Skype for Business “on premises” sau alte aplicatii de chat la Microsoft Teams (in cloud) si odata cu asta trebuie luate in calcul mai multe caracteristici ale retelei (de internet), ceea ce nu era necesar anterior. Nu iti face griji, nu trebuie sa te ocupi tu de asta, aceasta este expertiza noastra si te vom ajuta noi sa implementezi rapid si corect Microsoft Teams cat si alte aplicatii de comunicare si colaborare ce fac parte din Office 365 sau Microsoft 365.</p>
+<p>Indiferent ce aplicatii de chat folosesti noi te putem ajuta cu migrarea la Microsoft Teams si sa folosesti corect si complet aplicatia pentru a beneficia de toate avantajele pe care le aduce in lucrul de la distanta.</p>
+<p><span style="color: #000000;"><strong>Pentru mai multe detalii ne auzim la telefon 0756225522 sau ne poti scrie la <a style="color: #000000;" href="mailto:contact@pepascloud.ro">contact@pepascloud.ro</a></strong></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams a ajuns la 75 de milioane de utilizatori unici pe zi</title>
+		<link>/microsoft-teams-a-ajuns-la-75-de-milioane-de-utilizatori-unici-pe-zi/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Sat, 02 May 2020 13:18:18 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[Microsoft 365 Business Standard]]></category>
+		<category><![CDATA[Microsoft Teams]]></category>
+		<category><![CDATA[Microsoft Teams Gratuit]]></category>
+		<category><![CDATA[Office 365 Enterprise E1]]></category>
+		<guid isPermaLink="false">/?p=13091</guid>
+
+					<description><![CDATA[Microsoft Teams a ajuns la 75 de milioane de utilizatori unici pe zi   Anuntul facut de CEO Satya Nadella vine in conditiile in care pandemia coronavirus a fortat afacerile si institutiile de invatamant sa opereze de la distanta si a sporit cererea pentru produsele Microsoft care permit comunicarea si colaborarea. De asemenea, subliniaza cresterea [...]]]></description>
+										<content:encoded><![CDATA[
+<h1><em><span style="font-size: 90%;">Microsoft Teams a ajuns la 75 de milioane de utilizatori unici pe zi</span></em></h1>
+<p> </p>
+<p>Anuntul facut de CEO Satya Nadella vine in conditiile in care pandemia coronavirus a fortat afacerile si institutiile de invatamant sa opereze de la distanta si a sporit cererea pentru produsele Microsoft care permit comunicarea si colaborarea. De asemenea, subliniaza cresterea rapida a aplicatiei Microsoft Teams: pe 18 martie Microsoft a declarat ca Teams a ajuns la 44 de milioane de utilizatori activi zilnic, dupa ce crescuse deja cu 12 milioane intr-o saptamana. Mai exact, in aproape 2 luni Microsoft Teams a crescut de la 32 de milioane de utilizatori zilnici la 75 de milioane de utilizatori unici pe zi.</p>
+<p> </p>
+<h3><em>Ce este Microsoft Teams</em></h3>
+<p><strong><a href="/microsoft-teams/">Microsoft Teams</a> (parte din pachetele de aplicatii Microsoft 365) este o aplicatie creata pentru a facilita colaborarea organizata pe echipe, gandita exact pentru lucrul la distanta si include chat, mesagerie instant, apeluri audio si video, partajare de documete, partajarea ecranului, inregistrarea conferintei si multe altele. Doar cel care initiaza conferinta trebuie sa aiba un cont activ (licenta), cei invitati sa participe, daca nu au un cont activ, primesc un link pe care il pot accesa din orice browser si de pe orice dispozitiv. Conferintele pot avea pana la 250 participanti si pot dura cat are nevoie utilizatorul, nu au limita de timp.</strong></p>
+<p> </p>
+<h3><em>Doi ani de transformare digitala in doua luni</em></h3>
+<p>In aprilie, Microsoft Teams a avut peste 200 de milioane de participanti la intalnirile online intr-o singura zi, generand peste 4,1 miliarde de minute de intalniri online. Teams are acum peste 75 de milioane de utilizatori activi zilnici, iar doua treimi dintre acestia au distribuit, colaborat sau interactionat cu fisiere in timpul intalnirilor online. Dupa cum a spus Satya Nadella: „Am vazut doi ani de transformare digitala in doua luni. De la munca in echipa si invatare de la distanta, vanzari si servicii pentru clienti, la infrastructura si securitatea in cloud &#8211; lucram alaturi de clienti in fiecare zi pentru a-i ajuta sa se adapteze si sa ramana deschisi pentru afaceri intr-o lume in care totul tinde catre remote”.</p>
+<p>Pentru a-si mentine echipele conectate in aceasta lume “remote”, clientii nostri au nevoie de mai mult decat de intalniri online sau chat. Teams combina intalnirile, convorbirile, chatul si colaborarea intr-un singur instrument care pastreaza contextul si ofera viteza de reactie necesara.</p>
+<p> </p>
+<h3><em>Cele mai inalte standarde de securitate si confidentialitate</em></h3>
+<p>Teams contribuie la colaborarea organizatiilor de toate dimensiunile, respectand cele mai inalte standarde de securitate si confidentialitate. Microsoft Teams este folosit cu succes in invatamant, de catre guverne, in centre de asistenta medicala, spitale si in afaceri.</p>
+<p>In intreaga lume, peste 183.000 de institutii de invatamant folosesc Microsoft Teams. Numai in Emiratele Arabe Unite, peste 350.000 de studenti se bazeaza pe Teams pentru a invata la distanta. In domeniul afacerilor, 20 de organizatii au peste 100.000 de utilizatori activi ai aplicatiei Teams, inclusiv Continental AG, Ernst &amp; Young, Pfizer si SAP. Doar saptamana trecuta, Accenture a devenit prima organizatie care a depasit jumatate de milion de utilizatori ai Microsoft Teams.</p>
+<p> </p>
+<blockquote>
+<h2><span style="color: #000080; font-size: 75%;"><em>“Noul mod de lucru pe care il vedem la utilizatorii Microsoft Teams este durabil si va persista cu mult peste criza actuala”, declara CEO Satya Nadella.</em></span></h2>
+</blockquote>
+<p><strong><em> </em></strong></p>
+<p>Dupa saptamani de invatare remote si de lucru remote se dezvolta noi obiceiuri si se creaza noi moduri de lucru. Unele obiceiuri sau moduri de lucru din perioada COVID-19 se vor dovedi temporare dar credem ca noul mod de lucru pe care il vedem la utilizatorii Microsoft Teams este durabil si va persista cu mult peste criza actuala, declara CEO Satya Nadella. Datele din regiuni precum China si Coreea de Sud, unde multe persoane s-au intors la birou, dar continua sa foloseasca Microsoft Teams ca atunci cand lucrau de la distanta confirma acest lucru. De exemplu, un raport din aceasta luna a aratat ca avem in China un numar dublu de uitilizatori Teams pe zi, comparativ cu sfarsitul lunii ianuarie. Numarul utilizatorilor zilnici activi ai aplicatiei Teams din China a continuat sa creasca saptamana de saptamana.</p>
+<p> </p>
+<h3><em>Cum obtii Microsoft Teams si cat costa?</em></h3>
+<p>Cea mai importanta caracteristica a Microsoft Teams este aceea ca poate deveni one stop shop, ceea ce inseamna ca poate integra celelalte aplicatii din suita Microsoft 365. <strong>Deci daca ai deja unul din planurile (abonamentele) </strong><a href="/solutii-cloud/"><strong>Microsoft 365</strong></a><strong>, deja ai Teams. </strong></p>
+<p><strong>Daca esti persoana juridica iti oferim Microsoft Teams gratuit timp de 6 luni.</strong></p>
+<p>Pepas Cloud iti ofera, in parteneriat cu Microsoft, <a href="/shop/microsoft-cloud/microsoft-365/office-365-enterprise-e1/">Office 365 Enterprise E1</a> Trial timp 6 luni. Daca esti interesat de Microsoft 365, iti oferim licenta gratuit timp de 3 luni la nivelul pachetului <a href="/shop/microsoft-cloud/microsoft-365/microsoft-365-business-standard/">Microsoft 365 Business Standard</a>. </p>
+<p> </p>
+<p>Institutiile de invatamant acreditate de Ministerul Educatiei, birourile de administrare ale acestora precum si bibliotecile si muzeele publice vor primi gratuit, pe o perioada nelimitata, licenta de Office 365 A1. Tot ce trebuie sa faca este <a href="/contact/">sa ia legatura cu Pepas Cloud</a> si sa isi exprime dorinta de a folosi Microsoft/Office 365.</p>
+<p> </p>
+<h3><em>Cat costa Microsoft Teams?</em></h3>
+<p>Ar fi pacat sa privesti Teams ca pe o aplicatie singulara, ai pierde din vedere perfecta integrare cu celelalte aplicatii Microsoft – cum ar fi serviciul de mail, pachetul Office, spatiul de stocare in cloud (OneDrive) sau platforma de intranet (SharePoint). Un pachet care sa le includa pe toate acestea porneste de la 4.20 € + T.V.A. pe luna per utilizator, dupa perioada de gratuitate.</p>
+<p>In functie de ce nevoi si particularitati are afacerea ta, dupa ce stam de vorba si ne spui mai multe despre modul de lucru in cadrul afacerii tale, te vom sfatui care din abonamentele Microsoft este cel mai potrivit pentru tine.</p>
+<p> </p>
+<p><strong><em>Indiferent ce aplicatii de chat folosesti noi te putem ajuta cu migrarea la Microsoft Teams si sa folosesti corect si complet aplicatia pentru a beneficia de toate avantajele pe care le aduce in lucrul de la distanta.</em></strong></p>
+<h4>Pentru mai multe detalii ne auzim la telefon 0756225522.</h4>
+<p> </p>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Automatizarea proceselor de business prin crearea de aplicatii personalizate</title>
+		<link>/automatizarea-proceselor-de-business-prin-crearea-de-aplicatii-personalizate/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2020 16:08:29 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Automatizare]]></category>
+		<category><![CDATA[Microsoft Power Platform]]></category>
+		<category><![CDATA[Power Automate]]></category>
+		<category><![CDATA[PowerApps]]></category>
+		<guid isPermaLink="false">/?p=12946</guid>
+
+					<description><![CDATA[Automatizarea proceselor de business prin crearea de aplicatii personalizate.   Construim aplicatii personalizate care vor automatiza procesele de business si vor transforma afacerea ta intr-una moderna si adaptabila. Putem crea aplicatii care interactioneaza cu datele din listele si bibliotecile de documente SharePoint, precum si din alte surse din cloud sau surse locale. Aplicatiile pentru automatizarea [...]]]></description>
+										<content:encoded><![CDATA[
+<h3>Automatizarea proceselor de business prin crearea de aplicatii personalizate.</h3>
+<p> </p>
+<p>Construim aplicatii personalizate care vor automatiza procesele de business si vor transforma afacerea ta intr-una moderna si adaptabila.</p>
+<p>Putem crea aplicatii care interactioneaza cu datele din listele si bibliotecile de documente SharePoint, precum si din alte surse din cloud sau surse locale. Aplicatiile pentru automatizarea actiunilor repetitive pot fi folosite si pe dispozitive mobile si se pot folosi de tehnologii precum camerele de pe tablete si telefoane pentru a lucra in moduri inovatoare.</p>
+<p>Cu alte cuvinte, putem crea softuri care muncesc in locul tau pentru ca tu sa ai mai mult timp sa te concentrezi la aspectele esentiale ale afacerii. Vei putea petrece mai mult timp cautand noi oportunitati pentru business-ul tau, indrumand angajatii si supraveghind activitati importante in loc sa te aglomerezi cu verificari, aprobari si solicitari.</p>
+<p>Softul sau <span style="color: #333399;"><a style="color: #333399;" href="/automatizare-procese/">aplicatia de automatizare a proceselor</a> </span>de business va elibera echipa ta de sarcini repetitive, de rutina consumatoare de timp, care ii plafoneaza pe angajati. Vei optimiza astfel eficienta angajatilor tai. Echipa ta va putea astfel sa isi utilizeze competentele si chiar sa se dezvolte profesional avand mai mult timp pentru a invata lucrui noi si a deveni mai inovativa.</p>
+<p> </p>
+<h3>Beneficiile automatizarii proceselor de business</h3>
+<p> </p>
+<p><strong>Utilizarea mai eficienta a fortei de munca.</strong> Vei elibera angajatii din functiile de conducere de aprobarile si verificarile manuale si le vei da oportunitatea sa se concentreze pe alte sarcini mai productive.</p>
+<p><strong>O mai buna colaborare.</strong> Prin automatizarea de alerte de exemplu, membrii echipei tale vor sti in timp real statusul documentelor la care lucreaza impreuna. Aplicatia va crea un spatiu in care membrii echipei pot partaja fisiere si pot primi alerte atunci cand sunt actualizate sau modificate.</p>
+<p><strong>O mai buna asistenta pentru clienti. </strong> Vei monitoriza mai usor si mai eficient solicitarile clientilor. Echipa ta va asista mai rapid si mai eficient fiecare client in parte. Utilizand software-ul de automatizare a proceselor de business pentru deschiderea automata de tichete, echipa ta va reactiona rapid pentru a raspunde la intrebarile si solicitarile clientilor. Astfel, niciun client nu va fi trecut cu vederea si vei avea mai multi clienti multumiti.</p>
+<p><strong>Viteza de reactie sporita si servicii de calitate superioara</strong>. Utilizarea automatizarii proceselor de business va reduce erorile umane, va ajuta la indeplinirea mai multor sarcini intr-un timp mai scurt, si va transforma afacerea ta intr-un business flexibil, modern cu o viteza de reactie sporita.</p>
+<p><strong>Angajati mai multumiti. Echipa mai unita si mai motivata.</strong></p>
+<p>Eliminand sarcinile de rutina care plafoneaza angajatii, acestia vor avea mai mult timp pentru a invata lucruri noi si pentru a se dedica acelor sarcini de lucru in care exceleaza. Avand opurtunitatea sa isi puna in practica ideile inovative si de a isi dezvolta competentele si abilitatile, satisfactia la locul de munca va creste. La fel va creste si rata de fidelizare a angajatilor si implicit vor scadea costurile cu recrutarea.</p>
+<p> </p>
+<h3>Ce sa iei in calcul cand alegi sa automatizezi actiunile repetitive.</h3>
+<p>Solutia perfecta de automatizare a proceselor de business o vei lua in urma unei intalniri online (remote) cu unul din reprezentantii nostri si doar dupa ce vei analiza:</p>
+<p>&#8211;              Care sunt prioritatile afacerii tale</p>
+<p>&#8211;              Care sunt actiunile care iti ocupa cel mai mult timp</p>
+<p>&#8211;              Care este fluxul de lucru</p>
+<p>&#8211;              Ce pret pui pe timpul tau, cat timp ai nevoie sa eliberezi si ce buget aloci pentru asta</p>
+<p>&#8211;              Timpul inseamna bani, timpul eliberat si astfel castigat, inseamna bani castigati, si dupa cum stii, nu conteaza cat investesti in afacere ci conteaza cat produci cu banii investiti.</p>
+<p> </p>
+<h3>Asadar, ce mai astepti?</h3>
+<p>Automatizeaza, fluidizeaza si transforma procesele cu formulare complexe, fluxuri de lucru si aplicatii personalizate. Toate aplicatiile create de noi sunt realizate prin platformele Microsoft 365 si Microsoft Azure. Odata creata aplicatia dupa nevoile si dorintele tale, vei plati o licenta lunara si un cost mic de mentenanta. Aceste costuri vor fi insa infime in comparatie cu valoarea pe care o vor adauga businessului tau.</p>
+<p>Paseste cu incredere in viitor, adopta ce e mai bun din ceea ce ofera tehnologia de ultima generatie  si <span style="color: #333399;"><a style="color: #333399;" href="/automatizare-procese/">digitalizeaza-ti activitatea</a></span> cu automatizarea proceselor de business.</p>
+<h3>Work smart, not hard</h3>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft schimba denumirea pentru Office 365</title>
+		<link>/microsoft-schimba-denumirea-pentru-office-365/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 15:40:14 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[Microsoft 365 Business]]></category>
+		<category><![CDATA[Microsoft 365 Business Basic]]></category>
+		<category><![CDATA[Microsoft 365 Business Premium]]></category>
+		<category><![CDATA[Microsoft 365 Business Standard]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<guid isPermaLink="false">/?p=12903</guid>
+
+					<description><![CDATA[Microsoft anunta modificari ale abonamentelor Office 365 pentru SMB (firme mici si mijlocii) si pentru Office 365 ProPlus. Pe viitor aceste produse vor folosi denumirea de Microsoft 365. Aceasta este o evolutie naturala. Microsoft 365 a inceput in 2017 ca un pachet de licente pentru clientii business &#8211; o combinatie intre Windows, Office si Enterprise [...]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Microsoft anunta modificari ale abonamentelor Office 365 pentru SMB (firme mici si mijlocii) si pentru Office 365 ProPlus. Pe viitor aceste produse vor folosi denumirea de Microsoft 365.</strong></p>
+<p>Aceasta este o evolutie naturala. Microsoft 365 a inceput in 2017 ca un pachet de licente pentru clientii business &#8211; o combinatie intre Windows, Office si Enterprise Mobility and Security (EMS). &nbsp;A evoluat mult de atunci. Microsoft 365 reprezinta viziunea Microsoft pentru viitorul instrumentelor de productivitate &#8211; un set integrat de aplicatii si servicii care ofera inteligenta artificiala (AI) si alte inovatii de ultima ora pentru dumneavoastra. Si pentru firmele mici și mijlocii, aceasta include noi capabilitati ale Microsoft Teams pentru a va ajuta sa gazduiti online intalniri si sa colaborati mai eficient; Capabilitati de stocare si partajare a fisierelor in Cloud, astfel incat sa puteti colabora de oriunde; solutii de securitate si managemntul identitatatii online pentru a va proteja afacerea.</p>
+<p><strong>Noile nume ale produselor </strong></p>
+<p>Noile nume de produse intra in vigoare incepand cu 21 aprilie 2020. Aceasta este o modificare a numelui produsului si nu exista modificari ale preturilor sau ale functionalitatilor in acest moment.</p>
+<p><strong><em>Office 365 Business Essentials</em></strong> devine <strong>Microsoft 365 Business Basic</strong>.</p>
+<p><strong><em>Office 365 Business Premium</em></strong> devine <strong>Microsoft 365 Business Standard</strong>.</p>
+<p><strong><em>Microsoft 365 Business</em></strong> devine <strong>Microsoft 365 Business Premium</strong>.</p>
+<p><strong><em>Office 365 Business</em></strong> si <strong><em>Office 365 ProPlus</em></strong> vor deveni ambele <strong>Microsoft 365 Apps</strong>. &nbsp;Acolo unde va fi necesar, se va folosi mentiunea „business” sau „enterprise” pentru a face dinferenta intre cele 2 produse.</p>
+<p>Retineti ca modificarile aduse acestor produse se vor face automat si nu va trebui sa faceti nimic in acest sens.</p>
+<p>&nbsp;</p>
+<p><em>„Astazi, anuntam pur si simplu schimbari de nume. Dar aceste schimbari reprezinta ambitia noastra de a continua sa impulsionam inovatia in Microsoft 365, care depaseste cu mult ceea ce clientii considera in mod traditional Office. Pachetul Office pe care il cunoasteti si pe care il indragiti este in continuare inclus, dar suntem incantati de noile aplicatii si servicii pe care le-am adaugat la abonamentele noastre in ultimii ani. De asemeni in lunile urmatoare vom adauga noi inovatii.” &nbsp;&#8211; &nbsp;Jared Spataro, Corporate Vice President for Microsoft 365</em></p>
+<p>&nbsp;</p>
+<p><strong>De ce se fac aceste schimbari?</strong></p>
+<p>In primul rand, pentru ca produsele sa reflecte gama de caracteristici si beneficii din abonament. Microsoft 365 este un set integrat de aplicatii si servicii care ofera AI (inteligenta artificiala) si alte inovatii de varf sa functioneze pentru dumneavoastra. Si pentru firmele mici si mijlocii, aceasta include noi capacitati in Microsoft Teams pentru a va ajuta sa gazduiti intalniri online; Capabilitati de stocare si partajare a fisierelor in cloud, astfel incat sa puteti colabora de oriunde aveti internet; si solutii de securitate si identitate pentru a va proteja afacerile. In al doilea rand, cautam mereu modalitati de simplificare. Aceasta noua abordare a numirii produselor noastre este conceputa pentru a va ajuta sa gasiti rapid planul de care aveti nevoie.</p>
+<p>&nbsp;</p>
+<p><strong>Cum se incadreaza Office in Microsoft 365? Voi mai putea folosi Word, Excel si PowerPoint?</strong></p>
+<p>Suita Office este esentiala pentru experienta de productivitate Microsoft si aceasta nu se schimba. Dar in ultimii cativa ani, oferta noastră de productivitate in cloud a crescut cu mult peste ceea ce oamenii considera in mod traditional „Office”. Word, Excel si PowerPoint sunt mai importante ca niciodata. Dar în Microsoft 365 imbunatatim aceste aplicatii cu ajutorul tehnologiilor Cloud si AI si adaugam experiente noi, gazduite in Cloud, precum Teams, Stream, Forms si Planner. Toate acestea sunt bazate de un set de servicii comune care va pastreaza datele in siguranta. Este un office imbunatatit Office plus multe altele.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Slack lucreaza la integrarea cu Microsoft Teams pentru apeluri, spune CEO-ul Stewart Butterfield</title>
+		<link>/slack-lucreaza-la-integrarea-cu-microsoft-teams-pentru-apeluri-spune-ceo-ul-stewart-butterfield/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 11:17:24 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Colaborare]]></category>
+		<category><![CDATA[Microsoft Teams]]></category>
+		<category><![CDATA[Work Remote]]></category>
+		<guid isPermaLink="false">/?p=12882</guid>
+
+					<description><![CDATA[Slack lucreaza la integrarea cu Microsoft Teams pentru apeluri, anunta CEO Stewart Butterfield Slack, instrumentul Google de colaborare in echipa , lucreaza la o tehnologie care va permite utilizatorilor sai sa comunice cu cei care folosesc Microsoft Teams, cel mai bun concurent al lui Slack. Stewart Butterfield, co-fondatorul Slack a anuntat planul in timpul unui [...]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Slack lucreaza la integrarea cu Microsoft Teams pentru apeluri, anunta CEO Stewart Butterfield</strong></p>
+<p>Slack, instrumentul Google de colaborare in echipa , lucreaza la o tehnologie care va permite utilizatorilor sai sa comunice cu cei care folosesc Microsoft Teams, cel mai bun concurent al lui Slack. Stewart Butterfield, co-fondatorul Slack a anuntat planul in timpul unui apel cu analistul RBC Alex Zukin.</p>
+<p>Strategia reflecta o crestere a constientizarii ca oamenii utilizeaza alte servicii pentru anumite functii care sunt deja disponibile in Slack. Saptamana trecuta, Microsoft a dezvaluit ca Teams are deja 44 milioane de utilizatori activi zilnic. Slack nu a anuntat un raport comparabil din octombrie, cand a spus ca există 12 milioane de utilizatori zilnici.</p>
+<p><em>„Lucram la integrarea Microsoft Teams pentru functiile de apelare”</em>, a spus Butterfield in timpul apelului.</p>
+<p>Slack functioneaza deja cu servicii Microsoft Office precum OneDrive, Outlook si SharePoint.</p>
+<p>Microsoft Teams, precum si Zoom, au oferit un fel de inlocuitor virtual pentru intalniri in persoana in salile de conferinte, dupa ce din ce in ce mai multe persoane au inceput sa lucreze de acasa in ultimele saptamani pentru a evita extinderea suplimentara a coronavirusului, a spus Butterfield in timpul apeului.</p>
+<p>Nu este clar cand integrarea va deveni disponibila in Slack. Reprezentantii Microsoft si Slack nu au raspuns imediat la cererile de comentarii.</p>
+<p>Slack a devenit disponibil în 2014, iar Microsoft a introdus Teams in 2016.</p>
+<p><em>Sursa: <a href="https://www.cnbc.com/">https://www.cnbc.com/</a></em></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Noul Microsoft Edge</title>
+		<link>/noul-microsoft-edge/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2020 11:41:51 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Edge Chromium]]></category>
+		<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">/?p=11673</guid>
+
+					<description><![CDATA[Microsoft a lansat noul browser Microsoft Edge!   Noul Edge este bazat pe tehnologia Chromium (exact ca si Google Chrome) si este mult mai rapid avand in unele cazuri performante mai bune decat Chrome. Potrivit Microsoft, noul Microsoft Edge va economiseste timp si va ajuta sa va concentrati, oferind un mod rapid si sigur de [...]]]></description>
+										<content:encoded><![CDATA[
+<h1>Microsoft a lansat noul browser Microsoft Edge!</h1>
+<p> </p>
+<h5>Noul Edge este bazat pe tehnologia Chromium (exact ca si Google Chrome) si este mult mai rapid avand in unele cazuri performante mai bune decat Chrome.</h5>
+<h5>Potrivit Microsoft, noul Microsoft Edge va economiseste timp si va ajuta sa va concentrati, oferind un mod rapid si sigur de a face lucrurile pe web. Astazi, noul Microsoft Edge este in afara perioadei de test si este gata de descarcare pe toate versiunile acceptate de Windows si macOS si este disponibil in mai mult de 90 de limbi. Microsoft Edge este disponibil si pentru dispozitivele mobile ce folosesc iOS si Android, oferind o adevarata experienta cross-platform. Noul Microsoft Edge ofera performante de nivel ridicat cu o mai mare securitate a datelor, mai mare productivitate si mai mare transparenta in timp ce navigati.</h5>
+<p> </p>
+<h2>Instalarea</h2>
+<p><img class="alignnone size-medium wp-image-12747" src="/wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-800x369.jpg" alt="" width="800" height="369" srcset="/wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-800x369.jpg 800w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-600x276.jpg 600w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-1400x645.jpg 1400w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-768x354.jpg 768w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-1536x708.jpg 1536w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud.jpg 1901w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h5>Puteti obtine noul Microsoft Edge pentru Windows si macOS astazi, descarcandu-l direct de <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.microsoft.com/en-us/edge?form=MO12GE&amp;OCID=MO12GE" target="_blank" rel="noopener noreferrer">aici</a></span> sau puteti astepta ca acesta sa fie lansat automat pe dispozitivele Windows prin Windows Update. Cand instalati Microsoft Edge pe un dispozitiv Windows 10 actualizat, acesta va inlocui versiunea anterioara (legacy) de pe dispozitiv. In unele cazuri, vi se poate solicita sa instalati actualizari suplimentare. Favoritele, parolele si setarile de baza vor fi transmise automat la noul Microsoft Edge. Aplicatiile web (inclusiv cele construite pe EdgeHTML) si canalele de previzualizare Microsoft Edge (cum ar fi Dev sau Canary) vor continua sa functioneze fara intrerupere.</h5>
+<h5> </h5>
+<h5>Daca esti administrator IT, va trebui sa descarci un pachet de implementare offline pentru a fi instalat in infrastructura organizatiei tale &#8211; noul Microsoft Edge nu se va instala automat pentru clientii comerciali. In plus, niciunul dintre canalele de test Microsoft Edge nu se va actualiza la noul Microsoft Edge, deoarece pot fi utilizate in paralel pentru testare si validare.</h5>
+<h5> </h5>
+<h5>Daca utilizati Microsoft Edge pe iOS sau Android, nu trebuie sa faceti nicio actiune &#8211; dispozitivul vostru se va actualiza automat.</h5>
+<p> </p>
+<h2>Fiti gata pentru noul Microsoft Edge</h2>
+<p> </p>
+<h5>Fie ca incercati pentru prima data noul Microsoft Edge, fie ca ati fost parte din cei care au testat Edge in ultimul an, cu totii ati contribuit la dezvoltarea noului produs.</h5>
+<h5>Administratorii si profesionistii IT pot afla mai multe despre implementarea, administrarea si configurarea noului Microsoft Edge in organizatia lor la noua <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.microsoft.com/en-us/edge/business/download?form=MO12GD&amp;OCID=MO12GD" target="_blank" rel="noopener noreferrer">pagina enterprise</a></span>.</h5>
+<h5> </h5>
+<h5>Dezvoltatorii web pot gasi indrumari privind integrarea Microsoft Edge in matricea lor de test precum si mai multe informatii despre noile capabilitati ale platformei, instrumente pentru dezvoltatori, aplicatii web si multe altele in <a href="https://docs.microsoft.com/en-us/microsoft-edge/" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">documentatia pentru dezvoltatori web</span></a>.</h5>
+<p> </p>
+<h4><strong><span style="color: #000000;">Navigare fericita!</span></strong></h4>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Cloud &#8211; primul Data Center in Orientul Mijlociu</title>
+		<link>/microsoft-cloud-primul-data-center-in-orientul-mijlociu/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2019 10:40:36 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Microsoft Azure]]></category>
+		<category><![CDATA[Microsoft Cloud]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<guid isPermaLink="false">/?p=9458</guid>
+
+					<description><![CDATA[Microsoft anunta deschiderea primului Data Center in Orientul Mijlociu incepand cu 18 iunie!   Conform celor de la Microsoft incepand din 18 iunie, Microsoft Azure si Microsoft Offfice 365 fac un pas mare impreuna in a oferi servicii Cloud si a pregati clientii din Orientul Mijlociu pentru transformarea digitala. Ambele servicii sunt fi disponibile clientilor [...]]]></description>
+										<content:encoded><![CDATA[
+<h3>Microsoft anunta deschiderea primului Data Center in Orientul Mijlociu incepand cu 18 iunie!</h3>
+<p> </p>
+<p>Conform celor de la Microsoft incepand din 18 iunie, Microsoft Azure si Microsoft Offfice 365 fac un pas mare impreuna in a oferi servicii Cloud si a pregati clientii din Orientul Mijlociu pentru transformarea digitala.</p>
+<p>Ambele servicii sunt fi disponibile clientilor din Emiratele Arabe Unite iar din ultima partea a lui 2019, Dynamics 365 si Power Platform vor fi disponibile.</p>
+<p>Deschiderea noilor regiuni Cloud in Abu Dhabi si Dubai reprezinta inceputul dezvoltarii centrelor Cloud din Golf si din Orientul Mijlociu de catre Microsoft si rezolvarea problemelor legale ce privesc locatia de rezidenta a datelor.</p>
+<p>Noile regiuni de cloud adera la principiile <a href="https://www.microsoft.com/en-us/trust-center">Microsoft Trusted Cloud</a> si se alatura uneia dintre cele mai mari si mai sigure infrastructuri de Cloud din lume, care deserveste deja peste un miliard de clienti si 20 de milioane de companii. Microsoft are o expertiza profunda in protectia datelor, securitate si confidentialitate, inclusiv cel mai larg set de certificari de conformitate din industrie si este primul furnizor de servicii de Cloud din Emiratele Arabe Unite care obtine certificarea Dubai Electronic Security Center pentru serviciile sale de cloud. Concentrarea Microsoft continua pe principiile trusted Cloud si pozitia de lider in conformitate, inseamna ca clientii din regiune isi pot accelera transformarea digitala cu incredere si vor avea deja fundatia pentru a realiza si a securiza propriile aplicatii cu ajutorul tehnologiilor Cloud de la Microsoft.</p>
+<p>Infrastructura locala pentru centre de date stimuleaza dezvoltarea economica atat pentru clienti, cat si pentru parteneri, permitand companiilor, guvernelor si companiilor din zona sa realizeze avantajele Cloud-ului pentru inovare, precum si sa sprijine ecosistemul tehnologic care sustine inovatia. Microsoft anticipeaza ca serviciile cloud livrate din Emiratele Arabe Unite vor avea un impact pozitiv asupra crearii de locuri de munca, antreprenoriatului si cresterii economice in regiune. International Data Corporation (IDC) estimeaza ca serviciile Cloud ar putea aduce in Orientul Mijlociu mai mult de o jumatate de milion de locuri de munca, incluzand potentialul a peste 55.000 de noi locuri de munca în Emiratele Arabe Unite, intre 2017 si 2022.</p>
+<p> </p>
+<p>De asemenea, Microsoft continua sa contribuie la depasirea decalajului de competente in randul comunitatii IT si sa consolideze experienta tehnica a serviciilor Cloud. Cloud Society, un program orientat catre Orientul Mijlociu si Africa, cu ajutorul Microsoft Learn, a pregatit peste 150.000 de profesionisti IT in cadrul MEA. Comunitatea va beneficia si mai mult de disponibilitatea sporita si de performanta serviciilor Cloud furnizate din Emiratele Arabe Unite pentru a ajuta la realizarea avantajelor Cloud-ului enterprise, imbunatatirea abilitatilor in migrare de date si gestionarea mai eficienta a infrastructurii cloud.</p>
+<p> </p>
+<p> </p>
+<p>Poti citi mai multe detalii aici: <a href="https://news.microsoft.com/en-xm/?p=17732&amp;post_type=features&amp;preview=1&amp;_ppp=2e778af53a" target="_blank" rel="noopener noreferrer">Microsoft Middle East and Africa News Center</a>, <a href="https://azure.microsoft.com/en-us/global-infrastructure/unitedarabemirates/" target="_blank" rel="noopener noreferrer">Microsoft Azure United Arab Emirates</a>, <a href="https://products.office.com/en-us/business/enterprise-productivity-tools" target="_blank" rel="noopener noreferrer">Microsoft Office 365</a>, <a href="https://dynamics.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">Microsoft Dynamics 365</a>, si <a href="https://powerplatform.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">Microsoft Power Platform</a>.</p>
+<p> </p>
+<p>Sursa: poti citi mai multe detalii <a href="https://azure.microsoft.com/en-us/blog/first-microsoft-cloud-regions-in-middle-east-now-available/?fbclid=IwAR22ZTr5_o2HCTC-BKxD9FKH4VHJl6xy0HXcQslsmjItGxbLYRuMjBYmsYQ">aici</a>!</p>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

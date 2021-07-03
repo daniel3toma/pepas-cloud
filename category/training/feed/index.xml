@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Training &#8211; Pepas Cloud</title>
+	<atom:link href="/category/training/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Work smart, not hard!</description>
+	<lastBuildDate>Sat, 28 Mar 2020 17:16:22 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-Favicon-400x400-32x32.png</url>
+	<title>Training &#8211; Pepas Cloud</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>9 Mituri despre mutarea in Cloud &#8211; Office 365</title>
+		<link>/9-mituri-despre-mutarea-in-cloud-office-365/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Sat, 30 Mar 2019 17:48:05 +0000</pubDate>
+				<category><![CDATA[Training]]></category>
+		<category><![CDATA[Microsoft Cloud]]></category>
+		<category><![CDATA[Migrare in Cloud]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<guid isPermaLink="false">/?p=8203</guid>
+
+					<description><![CDATA[Si companiile care se gandesc sa foloseasca Microsoft Office 365 ca pe un prim pas in trecerea la solutii gazduite pentru aplicatii au de-a face cu neconcordante similare, fiindu-le greu sa faca distinctia intre adevar si fictiune. De exemplu, unele firme gresesc, crezand ca Office 365 este doar o versiune de Office ce poate fi [...]]]></description>
+										<content:encoded><![CDATA[
+<p><img class="alignnone size-full wp-image-12865" src="/wp-content/uploads/2020/03/Intro-9-Mituri-despre-mutarea-in-Cloud-Header-Pepas-Cloud.jpg" alt="" width="1100" height="700" srcset="/wp-content/uploads/2020/03/Intro-9-Mituri-despre-mutarea-in-Cloud-Header-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/Intro-9-Mituri-despre-mutarea-in-Cloud-Header-Pepas-Cloud-600x382.jpg 600w, /wp-content/uploads/2020/03/Intro-9-Mituri-despre-mutarea-in-Cloud-Header-Pepas-Cloud-629x400.jpg 629w, /wp-content/uploads/2020/03/Intro-9-Mituri-despre-mutarea-in-Cloud-Header-Pepas-Cloud-768x489.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<p>Si companiile care se gandesc sa foloseasca Microsoft Office 365 ca pe un prim pas in trecerea la solutii gazduite pentru aplicatii au de-a face cu neconcordante similare, fiindu-le greu sa faca distinctia intre adevar si fictiune. De exemplu, unele firme gresesc, crezand ca Office 365 este doar o versiune de Office ce poate fi accesata printr-un browser.<br />Este doar una dintre numeroasele idei gresite despre Office 365 pe care dorim sa le corectam, fapt pentru care am creat acest ghid menit sa te ajute, combatand miturile.<br />Cand iei in calcul Office 365, ca motor pentru organizatia ta, trebuie sa fii la curent cu faptele. Afacerea ta depinde de ele. Esti gata sa afli cele mai frecvente noua mituri privind Office 365 si serviciile in cloud pentru afaceri, despre care poate ca si tu credeai ca sunt adevarate, desi nu sunt?</p>
+<p>Citeste mai departe.</p>
+<p> </p>
+<h2>9 Mituri despre mutarea in Cloud &#8211; Office 365</h2>
+<p> </p>
+<h4><strong>MITUL NR. 1 Office 365 inseamna doar instrumente Office in cloud si nu le pot folosi decat online.</strong><br /><strong>MITUL NR. 2 Daca datele noastre se muta in cloud, firma noastra nu va mai detine controlul asupra tehnologiei care ne apartine.</strong><br /><strong>MITUL NR. 3 Este mai sigur sa pastram datele local, decat in Cloud.</strong><br /><strong>MITUL NR. 4 Trebuie sa mut totul in Cloud: nu merge decat totul sau nimic.</strong><br /><strong>MITUL NR. 5 Firma mea nu poate face fata unei migrari in Cloud.</strong><br /><strong>MITUL NR. 6 Spionii corporativi, infractorii cibernetici si autoritatile statale vor avea acces la datele mele, daca sunt in Cloud.</strong><br /><strong>MITUL NR. 7 Skype si Skype for Business sunt unul si acelasi lucru.</strong><br /><strong>MITUL NR. 8 Serviciile de e-mail nu sunt cu nimic mai simple in Cloud.</strong><br /><strong>MITUL NR. 9 Actualizarea permanenta a Office 365 imi va strica aplicatiile esentiale de business.</strong></h4>
+<h3> </h3>
+<p><img class="alignnone wp-image-12874 size-full" src="/wp-content/uploads/2020/03/MITUL-NR.-1-Pepas-Cloud.jpg" alt="" width="1100" height="350" srcset="/wp-content/uploads/2020/03/MITUL-NR.-1-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/MITUL-NR.-1-Pepas-Cloud-600x191.jpg 600w, /wp-content/uploads/2020/03/MITUL-NR.-1-Pepas-Cloud-800x255.jpg 800w, /wp-content/uploads/2020/03/MITUL-NR.-1-Pepas-Cloud-768x244.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h4><span style="color: #d73a01;"><strong>Adevarul</strong></span></h4>
+<p> </p>
+<p>Office 365 este o suita de servicii de productivitate bazate pe tehnologia Cloud, care poate include:</p>
+<p> </p>
+<ul>
+<li>Office 365 ProPlus sau Office 365 Business – clientul desktop Office pe care il cunosti si il utilizezi deja, care include Microsoft Word, Excel, PowerPoint, Outlook si OneNote, cu beneficiul suplimentar ca este licentiat, implementat si actualizat ca un serviciu. Aceste aplicatii sunt instalate pe dispozitivul tau, asa ca sunt disponibile si cand esti offline. In plus, ai optiunea sa stochezi datele in Cloud.</li>
+<li>Exchange Online pentru e-mail, calendare, colaborare bazata pe posta electronica.</li>
+<li>SharePoint Online si OneDrive for Business pentru colaborare, site-uri web interne, fluxuri de lucru precum si sincronizare si partajare de fisiere la nivel business. Tot aici avem posibilitatea sa facem backup la fisierele stocate local si in caz ca nu mai avem alimentare cu energie electrica (pana de curent sau s-a terminat bateria la laptop si nu avem posibilitatea de reincarcare) se strica dispozitivul, este pierdut, este furat sau am fost victima unui atac cibernetic ce ne-a criptat fisierele, putem sa accesam datele noastre de pe orice alt dispozitiv si sa le restauram.</li>
+<li>Skype for Business pentru apeluri de voce, mesagerie instantanee, sedinte si prezenta Online. Din 1 octombrie 2018 toate conturile de Office 365 sau Microsoft 365 ce au sub 500 de utilizatori sunt livrate doar cu Microsoft Teams. Microsoft teams include pe langa toate functionalitatile Skype for Business si altele cum ar fi: chat persistent (mesajele raman mereu si se sterg doar daca vrea utilizatorul), posibilitatea de a integra alte aplicatii in Microsoft Teams si multe altele. Mai multe detalii <a href="/microsoft-teams/">aici</a>.</li>
+<li>Yammer pentru colaborare sociala &#8211; ai o retea sociala privata la dispozitia ta unde controlezi tot ce se intampla.</li>
+<li>In functie de pachetul ales ai multe alte aplicatii ce ar putea sa te ajute sa iti automatizezi sarcinile de lucru repetitive.</li>
+</ul>
+<p> </p>
+<p><img class="alignnone size-full wp-image-12866" src="/wp-content/uploads/2020/03/MITUL-NR.-2-Pepas-Cloud.jpg" alt="" width="1100" height="350" srcset="/wp-content/uploads/2020/03/MITUL-NR.-2-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/MITUL-NR.-2-Pepas-Cloud-600x191.jpg 600w, /wp-content/uploads/2020/03/MITUL-NR.-2-Pepas-Cloud-800x255.jpg 800w, /wp-content/uploads/2020/03/MITUL-NR.-2-Pepas-Cloud-768x244.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h4><span style="color: #d73a01;"><strong>Adevarul</strong></span></h4>
+<p> </p>
+<p>Cand te muti in Cloud, toata bataia de cap si tot timpul pe care le investeai in intretinerea infrastructurii hardware si in actualizarea software-urilor se reduc semnificativ. Acum, tu si echipa ta va puteti concentra pe afacerea voastra, in loc sa faceti iar si iar munca de mentenanta si reparatii. Ai mai mult timp, pe care il poti dedica imbunatatirilor operationale si lansarilor de initiative agile pentru afacerea ta.<br />In loc sa cheltuiesti portiuni tot mai mari din buget pe servere pentru stocarea e-mailurilor si a sarcinilor de lucru, poti gandi strategic si poti sprijini managerii de business intr-o maniera mult mai agila, raspunzand rapid nevoilor acestora.</p>
+<p>Cei din departamentul de IT pot fi folositi pentru a imbunatati si automatiza procese ce consuma mult timp angajatilor tai. Iti vei transforma afacerea intr-una eficienta, gata sa creasca in ritmul in care ai nevoie.</p>
+<p> </p>
+<p><img class="alignnone size-full wp-image-12867" src="/wp-content/uploads/2020/03/MITUL-NR.-3-Pepas-Cloud.jpg" alt="" width="1100" height="350" srcset="/wp-content/uploads/2020/03/MITUL-NR.-3-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/MITUL-NR.-3-Pepas-Cloud-600x191.jpg 600w, /wp-content/uploads/2020/03/MITUL-NR.-3-Pepas-Cloud-800x255.jpg 800w, /wp-content/uploads/2020/03/MITUL-NR.-3-Pepas-Cloud-768x244.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h4><span style="color: #d73a01;"><strong>Adevarul</strong></span></h4>
+<p> </p>
+<p> </p>
+<p>Securitatea a devenit o slujba cu norma intreaga, care are nevoie de o echipa dedicata de experti, iar putinii experti de pe piata cer salarii pe masura. Microsoft ii angajeaza pe cei mai buni si mai priceputi in impiedicarea breselor de securitate si se bucura de un nivel de securitate la care majoritatea companiilor nu pot decat sa viseze.<br />Pentru a pastra securitatea Office 365 la cel mai inalt nivel al standardelor din domeniu, echipa Microsoft de securitate dedicata utilizeaza procese ca <a href="https://www.microsoft.com/en-us/securityengineering/sdl/practices">Security Development Lifecycle</a>, restrictionarea traficului si atenuarea efectelor breselor, pentru care majoritatea companiilor nu detin suficiente resurse. Mai mult, Microsoft Office 365 asigura un timp de functionare de 99,9 %, garantat financiar. In plus, printre angajatii Microsoft se numara experti in conformitate cu reglementarile autoritatilor, care sunt lideri in domeniul lor de competenta. Microsoft cunoaste si urmareste permanent cele mai recente reglementari si regulamente, printre care se numara HIPAA si Legea Sarbanes-Oxley, Legea federala din S.U.A. privind managementul securitatii informatice (FISMA), ISO 27001, Clauzele tip ale Uniunii Europene (UE), principiile „Sferei de siguranta” S.U.A.–UE, Legea S.U.A. privind confidentialitatea si dreptul la educatie pentru familii (FERPA) si Legea canadiana privind protejarea informatiilor personale si documentele in format electronic (PIPEDA).<br />Pentru a afla mai multe despre securitate si conformitate in Office 365, vizitati <a href="https://products.office.com/en/business/office-365-trust-center-welcome">Centrul de autorizare Office 365</a> sau ne puteti contacta si va vom ajuta sa intelegeti cum functioneaza partea de securitate in Office 365.</p>
+<p> </p>
+<p><img class="alignnone size-full wp-image-12868" src="/wp-content/uploads/2020/03/MITUL-NR.-4-Pepas-Cloud.jpg" alt="" width="1100" height="350" srcset="/wp-content/uploads/2020/03/MITUL-NR.-4-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/MITUL-NR.-4-Pepas-Cloud-600x191.jpg 600w, /wp-content/uploads/2020/03/MITUL-NR.-4-Pepas-Cloud-800x255.jpg 800w, /wp-content/uploads/2020/03/MITUL-NR.-4-Pepas-Cloud-768x244.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h4><span style="color: #d73a01;"><strong>Adevarul</strong></span></h4>
+<p> </p>
+<p> </p>
+<p>Desi primii sustinatori ai Cloud-ului erau gata sa declare ca acesta e un fel de rai informatic, nimeni nu a spus ca este o idee buna sa iti transferi cu forta intreaga afacere in Cloud, de pe o zi pe alta. Majoritatea implementarilor incep cu o abordare hibrida, prin mutarea unei singure aplicatii, cum ar fi e-mailul, ca prim pas pentru dezvoltarea viitoare.<br />Cloud-ul hibrid creeaza o platforma solida, care cuprinde infrastructuri din centrele de date si din Cloud, simplifica operatiunile IT si furnizeaza aplicatii si date pentru utilizatori, aproape indiferent de dispozitivul folosit si de loc. Ofera controlul de care ai nevoie pentru a livra puterea<br />de calcul si capacitatile esentiale pentru afaceri si pentru a creste sau a reduce capacitatile, in functie de nevoi, fara a investi inutil in tehnologii locale.<br />Multe companii isi muta sarcinile de lucru in Cloud, pentru un plus de productivitate; calea aleasa de fiecare este diferita si timpul necesar pentru realizarea migrarilor variaza. Te putem ajuta să migrezi mai intai anumite sarcini de lucru, cum ar fi sincronizarea si partajarea fisierelor (OneDrive for Business) sau e-mailul (Exchange), iar apoi te putem asista la conceperea unui plan pe termen lung, pentru proiecte mai dificile sau mai indelungate. Iti poti construi aplicatii personalizate foarte rapid si fara sa platesti in plus fata e pretul pachetului Office 365 ales, iti vei putea analiza datele si miscarea lor in interiorul retelei interne a companiei tale.</p>
+<p> </p>
+<p><img class="alignnone size-full wp-image-12869" src="/wp-content/uploads/2020/03/MITUL-NR.-5-Pepas-Cloud.jpg" alt="" width="1100" height="350" srcset="/wp-content/uploads/2020/03/MITUL-NR.-5-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/MITUL-NR.-5-Pepas-Cloud-600x191.jpg 600w, /wp-content/uploads/2020/03/MITUL-NR.-5-Pepas-Cloud-800x255.jpg 800w, /wp-content/uploads/2020/03/MITUL-NR.-5-Pepas-Cloud-768x244.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h4><span style="color: #d73a01;"><strong>Adevarul</strong></span></h4>
+<p> </p>
+<p>Atunci cand incepi sa te gandesti la cum vei muta cantitati mari de date in Cloud, este usor de inteles de ce unii oameni considera ca „miscarea Cloud” e o provocare prea mare. Nu iti vom spune ca e simplu ca buna ziua.<br />Dar initiativele agile si migrarile de date calculate se pot rezolva rapid. Te vom ajuta la fiecare pas, cu informatii si recomandari pentru configurarea firewall-urilor, cerintele de reverse proxy, optiunile pentru identitati, posibilitatile de migrare si o abordare defazata pentru configuratii hibride. Am creat mai multe cai dintre care poti alege si, in cele mai multe cazuri, vei putea utiliza instrumentele si procesele pe care le detii deja. In plus, iti punem la dispozitie si o gama intreaga de instrumente online, care te pot ajuta. <a href="/contact/">Contacteaza-ne</a> si te vom sprijini in drumul tau spre Cloud.</p>
+<p> </p>
+<p><img class="alignnone size-full wp-image-12870" src="/wp-content/uploads/2020/03/MITUL-NR.-6-Pepas-Cloud.jpg" alt="" width="1100" height="350" srcset="/wp-content/uploads/2020/03/MITUL-NR.-6-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/MITUL-NR.-6-Pepas-Cloud-600x191.jpg 600w, /wp-content/uploads/2020/03/MITUL-NR.-6-Pepas-Cloud-800x255.jpg 800w, /wp-content/uploads/2020/03/MITUL-NR.-6-Pepas-Cloud-768x244.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h4><span style="color: #d73a01;"><strong>Adevarul</strong></span></h4>
+<p> </p>
+<p>Aceasta este una din temerile principale ale multor firme, cand vine vorba despre Cloud. Dar este nefondata. Echipa ta IT este cea care gestioneaza accesul, configureaza permisiunile si restrictiile si furnizeaza drepturi de acces si optiuni pentru smartphone. Compania ta ramane unicul<br />beneficiar: tu pastrezi drepturile, titlurile de proprietate si interesele materiale asociate datelor stocate in Office 365.</p>
+<p>In ceea ce priveste securizarea datelor tale, sistemele Microsoft functioneaza pe baza unui set de principii cheie:</p>
+<ul>
+<li>Nu iti  sunt explorate datele in scopuri publicitare si nici in alte scopuri, cu excepția aceluia de a-ti furniza serviciile pe care le-ai platit.</li>
+<li>Daca alegi la un moment dat sa renunti la serviciu, iti iei datele cu tine.</li>
+<li>Masurile de control al confidentialitatii iti permit sa stabilesti cine din cadrul organizatiei are drepturi de acces si ce anume poate accesa.</li>
+<li>Auditarile si supervizarea extensive impiedica administratorii sa acceseze neautorizat datele tale.</li>
+</ul>
+<p> </p>
+<p>Masurile de control stricte si elementele de design nu permit datelor tale sa se amestece cu datele altor organizatii.<br />Personalul centrelor Microsoft de date nu are acces la datele tale. In plus, asigura un timp de functionare de 99,9 % prin<br />intermediul unui acord privind nivelul serviciului, garantat financiar. Daca un client observa ca timpul de functionare<br />lunar a scăzut sub 99,9 %, clientul respectiv este indemnizat prin credit pentru servicii.<br />Microsoft este primul furnizor major de servicii in cloud care adopta <a href="https://blogs.microsoft.com/on-the-issues/2015/02/16/microsoft-adopts-first-international-cloud-privacy-standard/">cel dintai standard international pentru confidentialitatea in cloud din lume</a>.</p>
+<p>Standardul stabileste o abordare uniforma la nivel international pentru protectia confidentialitatii datelor personale stocate in cloud.</p>
+<p>Acesta intareste urmatoarele reguli:</p>
+<ul>
+<li>Tu detii controlul asupra datelor tale.</li>
+<li>Tu stii ce se intampla cu datele tale.</li>
+<li>Microsoft furnizeaza masuri de securitate puternice, care iti protejeaza datele.</li>
+<li>Datele tale nu se utilizeaza in scopuri publicitare.</li>
+<li>Microsoft susține practica prin care autoritatile statale ti se adreseaza direct pentru solicitari de date, cu exceptia cazului in care acest lucru este interzis prin lege si va contesta in instanta tentativele de a interzice notificarea ta cu privire la astfel de solicitari.</li>
+</ul>
+<p> </p>
+<p><img class="alignnone size-full wp-image-12871" src="/wp-content/uploads/2020/03/MITUL-NR.-7-Pepas-Cloud.jpg" alt="" width="1100" height="350" srcset="/wp-content/uploads/2020/03/MITUL-NR.-7-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/MITUL-NR.-7-Pepas-Cloud-600x191.jpg 600w, /wp-content/uploads/2020/03/MITUL-NR.-7-Pepas-Cloud-800x255.jpg 800w, /wp-content/uploads/2020/03/MITUL-NR.-7-Pepas-Cloud-768x244.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h4><span style="color: #d73a01;"><strong>Adevarul</strong></span></h4>
+<p> </p>
+<p>Varianta de Skype pe care o folosesti acasa se potriveste excelent pentru un numar mic de utilizatori si este gratuita, cu exceptia cazului in care doresti sa cumperi credit pentru apeluri catre telefoane fixe sau mobile.<br />Skype for Business te lasa sa adaugi pana la 250 de persoane in sedințe online iar daca depasesti 250 de persoane poti crea o sedinta de tip broadcast ce poate avea pana la 10000 de participanti, iti ofera securitate adaptata pentru nevoile unei firme, iti permite sa gestionezi conturile angajatilor si se integreaza cu aplicatiile Office pe care le detii.<br />Skype for Business se integreaza cu Office 365, ceea ce iti ofera un plus de productivitate, oferind persoanelor libertatea de a se conecta asa cum doresc. Angajatii pot efectua si primi apeluri, pot face prezentari si pot participa la sedinte, folosind o singura aplicatie, indiferent unde s-ar afla, singura cerinta fiind prezenta unei conexiuni la internet.</p>
+<p>De exemplu, angajatii pot:</p>
+<ul>
+<li>Sa vada imediat cand un interlocutor este ocupat sau disponibil;</li>
+<li>Sa initieze o sesiune de mesagerie instantanee, facand dublu clic pe numele unei persoane de contact;</li>
+<li>Sa partajeze un desktop in timpul unei sedinte;</li>
+<li>Sa invite parteneri externi la o sedinta, fara ca acestia sa necesite o licenta, printr-o aplicatie de conferinta web dotata cu toate caracteristicile existente;</li>
+<li>Sa integreze continut video printr-o cameră web, in timpul unui apel sau al unei conferinte.</li>
+</ul>
+<p> </p>
+<p>Cu Skype for Business, nu ai nevoie de un administrator separat, care sa se ocupe de functionarea serverelor, si nici de investitii in infrastructuri suplimentare. Microsoft se ocupa de tot. Fiind o componenta a Office 365, Skype for Business ofera utilizatorilor caracteristici noi, actualizari<br />si corectii, imediat ce se lansează. Skype for Business si versiunea Skype pentru consumatori pot fi federalizate, pentru a permite comunicarea intre platforme.<br />Serviciul Skype for Business se bucură de asistenta non-stop. Desigur, echipa ta IT va trebui sa se ocupe de setari, drepturi de acces si securitate, dar restul le rezolva Microsoft.</p>
+<p>In curand Skype for Business va fi inlocuit complet de Microsoft Teams. Noile conturi deschise dupa 1 octombrie 2018 si care au mai putin de 500 de utilizatori deja nu mai includ Skype for Business.</p>
+<p>Microsoft Teams include toate functionalitatile Skype for Bsuiness si multe altele extra. Mai multe detalii <a href="/microsoft-teams/">aici</a>.</p>
+<p> </p>
+<p><img class="alignnone size-full wp-image-12872" src="/wp-content/uploads/2020/03/MITUL-NR.-8-Pepas-Cloud.jpg" alt="" width="1100" height="350" srcset="/wp-content/uploads/2020/03/MITUL-NR.-8-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/MITUL-NR.-8-Pepas-Cloud-600x191.jpg 600w, /wp-content/uploads/2020/03/MITUL-NR.-8-Pepas-Cloud-800x255.jpg 800w, /wp-content/uploads/2020/03/MITUL-NR.-8-Pepas-Cloud-768x244.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h4><span style="color: #d73a01;"><strong>Adevarul</strong></span></h4>
+<p> </p>
+<p> </p>
+<p>Atunci cand muti serviciile de e-mail ale companiei in cloud, poti sa te relaxezi, fiindca stii ca expertii care au creat acest software se ocupa de operatiunile dificile de intretinere, in vreme ce echipa ta se poate ocupa de controlul capacitatilor detinute de companie si de modul in care angajatii folosesc caracteristicile serviciului.<br />Poti petrece mai mult timp pentru operatiunile principale, care sporesc valoarea firmei, in loc sa te ocupi de operatiuni de intretinere hardware interminabile.<br />Actualizarile si remedierile pentru software-uri se livreaza automat, imediat dupa lansarea lor, iar Exchange Online este intotdeauna primul pe lista de actualizari. Desi gestiunea si actualizarile sunt complet automate, continui sa detii controlul atunci cand ai nevoie, folosind Exchange Admin Center.</p>
+<p>Pentru ca sunt multe variante in care poti gasi Office 365, iti recomandam colaborarea cu o firma ce detine expertiza in acest domeniu, pentru a te ajuta sa faci alegerea corecta potrivita nevoilor tale. Pepas Cloud este partener Microsoft autorizat si te poate indruma si iti poate furniza toate informatiile si serviciile de care ai nevoie atunci cand vrei sa faci trecerea la Office 365.</p>
+<p> </p>
+<p><img class="alignnone size-full wp-image-12873" src="/wp-content/uploads/2020/03/MITUL-NR.-9-Pepas-Cloud.jpg" alt="" width="1100" height="350" srcset="/wp-content/uploads/2020/03/MITUL-NR.-9-Pepas-Cloud.jpg 1100w, /wp-content/uploads/2020/03/MITUL-NR.-9-Pepas-Cloud-600x191.jpg 600w, /wp-content/uploads/2020/03/MITUL-NR.-9-Pepas-Cloud-800x255.jpg 800w, /wp-content/uploads/2020/03/MITUL-NR.-9-Pepas-Cloud-768x244.jpg 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></p>
+<h4><span style="color: #d73a01;"><strong>Adevarul</strong></span></h4>
+<p> </p>
+<p> </p>
+<p>Stiind cat de mult conteaza ca angajatii sa aiba acces la aplicatiile esentiale pentru afacerea ta si la programele de completare din Office, Microsoft se angajeaza sa asigure compatibilitatea cu instrumentele pe care le utilizezi in fiecare zi impreuna cu Office 365.</p>
+<p>Iata cum procedeaza:</p>
+<ul>
+<li>Ofera acelasi standard international acceptat pentru aplicatiile desktop, ca si instrumentele familiare pe care le cunosti si le apreciezi deja, cum ar fi Word, PowerPoint si Excel.</li>
+<li>Incearca din greu sa garanteze că, desi actualizeaza regulat Office in Cloud, actualizarile nu influenteaza negativ zonele care ar putea afecta alte aplicatii software. De exemplu, in ultimele 24 de luni, lansarile lunare pentru Office 365 nu au adus cu sine modificari la modelele de obiecte sau API-uri. Daca solutiile tale esentiale pentru afaceri functioneaza astazi cu Office 2010 sau Office 2013, cel mai probabil vor functiona si cu Office 365.</li>
+<li>Colaboreaza indeaproape cu furnizorii majori de software-uri, oferindu-le instrumente potrivite si acces timpuriu la servicii, pentru a garanta ca solutiile care functioneaza cu Office vor continua sa functioneze si cu Office 365.</li>
+<li>Te ajuta să eviti problemele de compatibilitate prin indrumari si practici recomandate de gestiune a actualizarilor si dezvoltare.</li>
+<li>Permite instalarea in paralel a Office 365 ProPlus si a versiunilor mai vechi de Office, ceea ce iti acorda timpul necesar pentru a remedia orice problema.</li>
+</ul>
+<p> </p>
+<p> </p>
+<h3><strong><span style="color: #ff6600;">Concluzie</span></strong></h3>
+<p> </p>
+<p> </p>
+<p>Cand esti preocupat cu gestionarea mai multor sisteme, aplicatii si date izolate, lucrezi cu sisteme inflexibile si lente si esti tinta criticilor aspre ale angajatilor, care isi doresc acces la reteaua firmei si la instrumente noi, e dificil sa mai gssesti timpul necesar ca sa ramai la curent cu produsele noi si sa evaluezi puhoiul de informatii care iti trec pe la urechi. Acum, insa, ai obtinut o mai buna intelegere a solutiilor de productivitate si colaborare oferite de Office 365.<br />Te încurajam sa impartasesti aceste cunostinte si cu alti colegi, care au nevoie sa faca distinctia intre adevar si fictiune, cand vine vorba despre Office 365. E util sa vedeti la fel lucrurile si vei economisi timp, daca nu va mai fi nevoie sa combati mereu aceste mituri.</p>
+<p> </p>
+<p>In caz ca ai intrebari suplimentare, ne poti <a href="/contact/">contacta</a> si te vom lamuri astfel incat sa intelegi mai bine ecosistemul Cloud.</p>
+<p> </p>
+<p> </p>
+<p><span style="color: #ff6600;"><a style="color: #ff6600;" href="/contact/">Programeaza</a> </span>o intalnire cu unul din specialistii nostri in Office 365!</p>
+<p> </p>
+<p> </p>
+<p>Copyright © PEPAS CLOUD 2019</p>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

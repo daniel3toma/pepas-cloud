@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Daniel Toma &#8211; Pepas Cloud</title>
+	<atom:link href="/author/daniel-tomapepascloud-com/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Work smart, not hard!</description>
+	<lastBuildDate>Thu, 19 Nov 2020 12:39:26 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2019/07/cropped-Favicon-400x400-32x32.png</url>
+	<title>Daniel Toma &#8211; Pepas Cloud</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Microsoft avertizeaza: o parola puternica nu functioneaza, nici autentificarea standard cu mai multi factori</title>
+		<link>/microsoft-avertizeaza-o-parola-puternica-nu-functioneaza-nici-autentificarea-standard-cu-mai-multi-factori/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2020 15:37:48 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<guid isPermaLink="false">/?p=13722</guid>
+
+					<description><![CDATA[&#160; Alex Weinert &#8211; Director of Identity Security la Microsoft a avertizat cu privire la ineficienta parolelor si, mai recent, cu privire la autentificarea multi-factor standard sau MFA. &#160; Parolele nu prea mai conteaza. La inceputul acestui an, Alex Weinert &#8211; Director of Identity Security la Microsoft, a avertizat ca „PAROLA nu conteaza”, in sensul [...]]]></description>
+										<content:encoded><![CDATA[
+<h4>&nbsp;</h4>
+<p>Alex Weinert &#8211; Director of Identity Security la Microsoft a avertizat cu privire la ineficienta parolelor si, mai recent, cu privire la autentificarea multi-factor standard sau MFA.</p>
+<p>&nbsp;</p>
+<p><strong>Parolele nu prea mai conteaza.</strong></p>
+<p>La inceputul acestui an, Alex Weinert &#8211; Director of Identity Security la Microsoft, a avertizat ca „PAROLA nu conteaza”, in sensul ca a explicat motivele pentru care nici parolele puternice nu sunt neaparat eficiente.</p>
+<p><strong>„Cand vine vorba de compozitie si lungime, parola dumneavoastra (in cea mai mare parte) nu conteaza”</strong>, a spus Weinert de la Microsoft. Ar trebui sa stie ce spune: echipa cu care Alex Weinert lucreaza la Microsoft se confrunta zilnic cu sute de milioane de atacuri si incercari de ”spargere” a parolelor.</p>
+<p>&nbsp;</p>
+<p><strong>„Amintiti-va ca tot ce il intereseaza pe atacator este sa fure parolele</strong>“&#8230;Aceasta este o diferenta esentiala intre securitatea ipotetica si cea practica” &#8211; atacatorul va face lucruri foarte nebunesti si creative despre care auziti la conferinte (sau oriunde) doar atunci cand nu exista o cale mai usoara si tinta atacului justifica efortul suplimentar.” &#8211; Alex Weinert &#8211; Director of Identity Security &#8211; Microsoft</p>
+<p>Cu alte cuvinte, baietii rai vor face tot ce este necesar pentru a va fura parola, iar o parola puternica nu este un obstacol atunci cand infractorii au la dispozitie mult timp si o multime de instrumente mai ales daca miza este mare.</p>
+<p>&nbsp;</p>
+<p>Intr-un <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/your-pa-word-doesn-t-matter/ba-p/731984" target="_blank" rel="noopener noreferrer">tabel</a></span>, el a prezentat o lista de motive pentru care hackerii au adesea succes. De exemplu:</p>
+<p><strong>—Password Breach</strong> &nbsp;&#8211; “spargerea” parolei, adica baietii rai au deja parola dumneavoastra.</p>
+<p>Risc: atacuri masive se intampla tot timpul. Deoarece au deja parola dumneavoastra si deoarece parolele sunt greu de inventat si ajung sa fie reutilizate (62% dintre utilizatori recunosc ca reutilizeaza parolele), hackerii pot intra in mai multe conturi cu aceeasi parola. Peste 20 de milioane de incercari de spargere a conturilor sunt desoperite zilnic in sistemele de identificare Microsoft.</p>
+<p><strong>— „Password Spray”</strong> adica ghicirea parolei &#8211; Sarcina dumneavoastra este sa aveti o parola care nu este usor de ghicit. Partea „buna” la atacurile de tip password spray este ca acest gen de atac este detectabil si odata detectat, serverul de conectare poate bloca conectarea pentru a proteja contul.</p>
+<p>Risc: „Uneori sunt sute de mii de atacuri &#8220;reusite&#8221; pe zi si milioane de incercari de spargere a conturilor zilnic.&#8221;</p>
+<p><strong>—<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/all-your-creds-are-belong-to-us/ba-p/855124" target="_blank" rel="noopener noreferrer">Phishing</a></span></strong>, adica, e-mailuri false &#8211; uneori cu aspect foarte autentic – care par a fi de la o companie de incredere, in care aveti incredere.</p>
+<p>Atacatorii trimit e-mailuri care par a fi de la cineva cunoscut sau promit divertisment ori promotii sau ameninta cu diverse actiuni. E-mailul contine un link si, daca utilizatorul acceseaza linkul, acesta este apoi redirectionat catre site-ul doppelganger (un site fals care arata aproape identic cu cel original) pentru conectare. Cand “victima” introduce date de logare, le dezvaluie de fapt atacatorului. Sunt utilizate Modlishka sau instrumente similare pentru a face acest lucru foarte usor.</p>
+<p>Risc: „functioneaza &#8230; oamenii sunt curiosi sau ingrijorati si ignora semnele de avertizare”.</p>
+<p>&nbsp;</p>
+<p><strong>Solutia</strong> pentru cele de mai sus (un indemn care vizeaza mai mult companiile tehnologice decat utilizatorii): <strong>mizati mai mult pe biometrie</strong>, cum ar fi amprenta digitala (sau o „amprenta cognitiva” *), identificarea vocala sau a fetei, potrivit Mountain View, California Synopsys, care, printre altele, este implicat in securitatea software-ului. „Aceste mecanisme de recunoastere sunt stocate numai pe dispozitivul utilizatorului. Parolele sunt „secrete partajate” care se afla atat pe dispozitiv, cat si pe un server care, dupa cum stim cu totii, pot fi compromise, a spus Synopsys.</p>
+<p>* O amprenta cognitiva ar combina diverse comportamente, cum ar fi modul de apasare a tastelor, utilizarea mouse-ului, structura propozitiei si utilizarea limbajului.</p>
+<p>Dar Synopsys adauga si acest lucru: daca va faceti parolele lungi si complicate, utilizati un amestec de litere, simboluri si punctuatie, va schimbati periodic parola si nu utilizati aceeasi parola pentru mai multe conturi, veti fi mai bine protejati decat majoritatea utilizatorilor, veti fi mai greu de atacat.</p>
+<p>&nbsp;</p>
+<p><strong>Nici autentificarea multi-factor bazata pe telefon (sms) nu este sigura:</strong></p>
+<p>MFA (Multi-Factor Authentication) bazat pe telefonie, pe sms, denumite retele telefonice cu comutare publica sau PSTN, nu este sigur, potrivit Weinert.</p>
+<p>(Ce este MFA standard? Este atunci cand, de exemplu, o banca va trimite un cod de verificare printr-un mesaj text.)</p>
+<p>„Cred ca sunt cele mai putin sigure dintre metodele MFA disponibile astazi”, a scris Weinert intr-un blog (prin ZDNet).</p>
+<p>„Cand s-au dezvoltat protocoale SMS (mesaje text) si vocale, acestea au fost proiectate fara criptare &#8230; ceea ce inseamna ca semnalele pot fi interceptate de oricine poate avea acces la reteaua de comutare sau in raza de actiune a unui dispozitiv,” a scris Weinert.</p>
+<p>&nbsp;</p>
+<p><strong>Solutie: utilizati autentificarea bazata pe aplicatii cum ar fi de exemplu, Microsoft Authenticator sau alte aplicatii similare</strong>. O aplicatie este mai sigura, deoarece nu se bazeaza pe operatorul dumneavoastra de telefonie. Codurile se afla in aplicatia insasi si expira rapid.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams a ajuns la 75 de milioane de utilizatori unici pe zi</title>
+		<link>/microsoft-teams-a-ajuns-la-75-de-milioane-de-utilizatori-unici-pe-zi/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Sat, 02 May 2020 13:18:18 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[Microsoft 365 Business Standard]]></category>
+		<category><![CDATA[Microsoft Teams]]></category>
+		<category><![CDATA[Microsoft Teams Gratuit]]></category>
+		<category><![CDATA[Office 365 Enterprise E1]]></category>
+		<guid isPermaLink="false">/?p=13091</guid>
+
+					<description><![CDATA[Microsoft Teams a ajuns la 75 de milioane de utilizatori unici pe zi   Anuntul facut de CEO Satya Nadella vine in conditiile in care pandemia coronavirus a fortat afacerile si institutiile de invatamant sa opereze de la distanta si a sporit cererea pentru produsele Microsoft care permit comunicarea si colaborarea. De asemenea, subliniaza cresterea [...]]]></description>
+										<content:encoded><![CDATA[
+<h1><em><span style="font-size: 90%;">Microsoft Teams a ajuns la 75 de milioane de utilizatori unici pe zi</span></em></h1>
+<p> </p>
+<p>Anuntul facut de CEO Satya Nadella vine in conditiile in care pandemia coronavirus a fortat afacerile si institutiile de invatamant sa opereze de la distanta si a sporit cererea pentru produsele Microsoft care permit comunicarea si colaborarea. De asemenea, subliniaza cresterea rapida a aplicatiei Microsoft Teams: pe 18 martie Microsoft a declarat ca Teams a ajuns la 44 de milioane de utilizatori activi zilnic, dupa ce crescuse deja cu 12 milioane intr-o saptamana. Mai exact, in aproape 2 luni Microsoft Teams a crescut de la 32 de milioane de utilizatori zilnici la 75 de milioane de utilizatori unici pe zi.</p>
+<p> </p>
+<h3><em>Ce este Microsoft Teams</em></h3>
+<p><strong><a href="/microsoft-teams/">Microsoft Teams</a> (parte din pachetele de aplicatii Microsoft 365) este o aplicatie creata pentru a facilita colaborarea organizata pe echipe, gandita exact pentru lucrul la distanta si include chat, mesagerie instant, apeluri audio si video, partajare de documete, partajarea ecranului, inregistrarea conferintei si multe altele. Doar cel care initiaza conferinta trebuie sa aiba un cont activ (licenta), cei invitati sa participe, daca nu au un cont activ, primesc un link pe care il pot accesa din orice browser si de pe orice dispozitiv. Conferintele pot avea pana la 250 participanti si pot dura cat are nevoie utilizatorul, nu au limita de timp.</strong></p>
+<p> </p>
+<h3><em>Doi ani de transformare digitala in doua luni</em></h3>
+<p>In aprilie, Microsoft Teams a avut peste 200 de milioane de participanti la intalnirile online intr-o singura zi, generand peste 4,1 miliarde de minute de intalniri online. Teams are acum peste 75 de milioane de utilizatori activi zilnici, iar doua treimi dintre acestia au distribuit, colaborat sau interactionat cu fisiere in timpul intalnirilor online. Dupa cum a spus Satya Nadella: „Am vazut doi ani de transformare digitala in doua luni. De la munca in echipa si invatare de la distanta, vanzari si servicii pentru clienti, la infrastructura si securitatea in cloud &#8211; lucram alaturi de clienti in fiecare zi pentru a-i ajuta sa se adapteze si sa ramana deschisi pentru afaceri intr-o lume in care totul tinde catre remote”.</p>
+<p>Pentru a-si mentine echipele conectate in aceasta lume “remote”, clientii nostri au nevoie de mai mult decat de intalniri online sau chat. Teams combina intalnirile, convorbirile, chatul si colaborarea intr-un singur instrument care pastreaza contextul si ofera viteza de reactie necesara.</p>
+<p> </p>
+<h3><em>Cele mai inalte standarde de securitate si confidentialitate</em></h3>
+<p>Teams contribuie la colaborarea organizatiilor de toate dimensiunile, respectand cele mai inalte standarde de securitate si confidentialitate. Microsoft Teams este folosit cu succes in invatamant, de catre guverne, in centre de asistenta medicala, spitale si in afaceri.</p>
+<p>In intreaga lume, peste 183.000 de institutii de invatamant folosesc Microsoft Teams. Numai in Emiratele Arabe Unite, peste 350.000 de studenti se bazeaza pe Teams pentru a invata la distanta. In domeniul afacerilor, 20 de organizatii au peste 100.000 de utilizatori activi ai aplicatiei Teams, inclusiv Continental AG, Ernst &amp; Young, Pfizer si SAP. Doar saptamana trecuta, Accenture a devenit prima organizatie care a depasit jumatate de milion de utilizatori ai Microsoft Teams.</p>
+<p> </p>
+<blockquote>
+<h2><span style="color: #000080; font-size: 75%;"><em>“Noul mod de lucru pe care il vedem la utilizatorii Microsoft Teams este durabil si va persista cu mult peste criza actuala”, declara CEO Satya Nadella.</em></span></h2>
+</blockquote>
+<p><strong><em> </em></strong></p>
+<p>Dupa saptamani de invatare remote si de lucru remote se dezvolta noi obiceiuri si se creaza noi moduri de lucru. Unele obiceiuri sau moduri de lucru din perioada COVID-19 se vor dovedi temporare dar credem ca noul mod de lucru pe care il vedem la utilizatorii Microsoft Teams este durabil si va persista cu mult peste criza actuala, declara CEO Satya Nadella. Datele din regiuni precum China si Coreea de Sud, unde multe persoane s-au intors la birou, dar continua sa foloseasca Microsoft Teams ca atunci cand lucrau de la distanta confirma acest lucru. De exemplu, un raport din aceasta luna a aratat ca avem in China un numar dublu de uitilizatori Teams pe zi, comparativ cu sfarsitul lunii ianuarie. Numarul utilizatorilor zilnici activi ai aplicatiei Teams din China a continuat sa creasca saptamana de saptamana.</p>
+<p> </p>
+<h3><em>Cum obtii Microsoft Teams si cat costa?</em></h3>
+<p>Cea mai importanta caracteristica a Microsoft Teams este aceea ca poate deveni one stop shop, ceea ce inseamna ca poate integra celelalte aplicatii din suita Microsoft 365. <strong>Deci daca ai deja unul din planurile (abonamentele) </strong><a href="/solutii-cloud/"><strong>Microsoft 365</strong></a><strong>, deja ai Teams. </strong></p>
+<p><strong>Daca esti persoana juridica iti oferim Microsoft Teams gratuit timp de 6 luni.</strong></p>
+<p>Pepas Cloud iti ofera, in parteneriat cu Microsoft, <a href="/shop/microsoft-cloud/microsoft-365/office-365-enterprise-e1/">Office 365 Enterprise E1</a> Trial timp 6 luni. Daca esti interesat de Microsoft 365, iti oferim licenta gratuit timp de 3 luni la nivelul pachetului <a href="/shop/microsoft-cloud/microsoft-365/microsoft-365-business-standard/">Microsoft 365 Business Standard</a>. </p>
+<p> </p>
+<p>Institutiile de invatamant acreditate de Ministerul Educatiei, birourile de administrare ale acestora precum si bibliotecile si muzeele publice vor primi gratuit, pe o perioada nelimitata, licenta de Office 365 A1. Tot ce trebuie sa faca este <a href="/contact/">sa ia legatura cu Pepas Cloud</a> si sa isi exprime dorinta de a folosi Microsoft/Office 365.</p>
+<p> </p>
+<h3><em>Cat costa Microsoft Teams?</em></h3>
+<p>Ar fi pacat sa privesti Teams ca pe o aplicatie singulara, ai pierde din vedere perfecta integrare cu celelalte aplicatii Microsoft – cum ar fi serviciul de mail, pachetul Office, spatiul de stocare in cloud (OneDrive) sau platforma de intranet (SharePoint). Un pachet care sa le includa pe toate acestea porneste de la 4.20 € + T.V.A. pe luna per utilizator, dupa perioada de gratuitate.</p>
+<p>In functie de ce nevoi si particularitati are afacerea ta, dupa ce stam de vorba si ne spui mai multe despre modul de lucru in cadrul afacerii tale, te vom sfatui care din abonamentele Microsoft este cel mai potrivit pentru tine.</p>
+<p> </p>
+<p><strong><em>Indiferent ce aplicatii de chat folosesti noi te putem ajuta cu migrarea la Microsoft Teams si sa folosesti corect si complet aplicatia pentru a beneficia de toate avantajele pe care le aduce in lucrul de la distanta.</em></strong></p>
+<h4>Pentru mai multe detalii ne auzim la telefon 0756225522.</h4>
+<p> </p>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Automatizarea proceselor de business prin crearea de aplicatii personalizate</title>
+		<link>/automatizarea-proceselor-de-business-prin-crearea-de-aplicatii-personalizate/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2020 16:08:29 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Automatizare]]></category>
+		<category><![CDATA[Microsoft Power Platform]]></category>
+		<category><![CDATA[Power Automate]]></category>
+		<category><![CDATA[PowerApps]]></category>
+		<guid isPermaLink="false">/?p=12946</guid>
+
+					<description><![CDATA[Automatizarea proceselor de business prin crearea de aplicatii personalizate.   Construim aplicatii personalizate care vor automatiza procesele de business si vor transforma afacerea ta intr-una moderna si adaptabila. Putem crea aplicatii care interactioneaza cu datele din listele si bibliotecile de documente SharePoint, precum si din alte surse din cloud sau surse locale. Aplicatiile pentru automatizarea [...]]]></description>
+										<content:encoded><![CDATA[
+<h3>Automatizarea proceselor de business prin crearea de aplicatii personalizate.</h3>
+<p> </p>
+<p>Construim aplicatii personalizate care vor automatiza procesele de business si vor transforma afacerea ta intr-una moderna si adaptabila.</p>
+<p>Putem crea aplicatii care interactioneaza cu datele din listele si bibliotecile de documente SharePoint, precum si din alte surse din cloud sau surse locale. Aplicatiile pentru automatizarea actiunilor repetitive pot fi folosite si pe dispozitive mobile si se pot folosi de tehnologii precum camerele de pe tablete si telefoane pentru a lucra in moduri inovatoare.</p>
+<p>Cu alte cuvinte, putem crea softuri care muncesc in locul tau pentru ca tu sa ai mai mult timp sa te concentrezi la aspectele esentiale ale afacerii. Vei putea petrece mai mult timp cautand noi oportunitati pentru business-ul tau, indrumand angajatii si supraveghind activitati importante in loc sa te aglomerezi cu verificari, aprobari si solicitari.</p>
+<p>Softul sau <span style="color: #333399;"><a style="color: #333399;" href="/automatizare-procese/">aplicatia de automatizare a proceselor</a> </span>de business va elibera echipa ta de sarcini repetitive, de rutina consumatoare de timp, care ii plafoneaza pe angajati. Vei optimiza astfel eficienta angajatilor tai. Echipa ta va putea astfel sa isi utilizeze competentele si chiar sa se dezvolte profesional avand mai mult timp pentru a invata lucrui noi si a deveni mai inovativa.</p>
+<p> </p>
+<h3>Beneficiile automatizarii proceselor de business</h3>
+<p> </p>
+<p><strong>Utilizarea mai eficienta a fortei de munca.</strong> Vei elibera angajatii din functiile de conducere de aprobarile si verificarile manuale si le vei da oportunitatea sa se concentreze pe alte sarcini mai productive.</p>
+<p><strong>O mai buna colaborare.</strong> Prin automatizarea de alerte de exemplu, membrii echipei tale vor sti in timp real statusul documentelor la care lucreaza impreuna. Aplicatia va crea un spatiu in care membrii echipei pot partaja fisiere si pot primi alerte atunci cand sunt actualizate sau modificate.</p>
+<p><strong>O mai buna asistenta pentru clienti. </strong> Vei monitoriza mai usor si mai eficient solicitarile clientilor. Echipa ta va asista mai rapid si mai eficient fiecare client in parte. Utilizand software-ul de automatizare a proceselor de business pentru deschiderea automata de tichete, echipa ta va reactiona rapid pentru a raspunde la intrebarile si solicitarile clientilor. Astfel, niciun client nu va fi trecut cu vederea si vei avea mai multi clienti multumiti.</p>
+<p><strong>Viteza de reactie sporita si servicii de calitate superioara</strong>. Utilizarea automatizarii proceselor de business va reduce erorile umane, va ajuta la indeplinirea mai multor sarcini intr-un timp mai scurt, si va transforma afacerea ta intr-un business flexibil, modern cu o viteza de reactie sporita.</p>
+<p><strong>Angajati mai multumiti. Echipa mai unita si mai motivata.</strong></p>
+<p>Eliminand sarcinile de rutina care plafoneaza angajatii, acestia vor avea mai mult timp pentru a invata lucruri noi si pentru a se dedica acelor sarcini de lucru in care exceleaza. Avand opurtunitatea sa isi puna in practica ideile inovative si de a isi dezvolta competentele si abilitatile, satisfactia la locul de munca va creste. La fel va creste si rata de fidelizare a angajatilor si implicit vor scadea costurile cu recrutarea.</p>
+<p> </p>
+<h3>Ce sa iei in calcul cand alegi sa automatizezi actiunile repetitive.</h3>
+<p>Solutia perfecta de automatizare a proceselor de business o vei lua in urma unei intalniri online (remote) cu unul din reprezentantii nostri si doar dupa ce vei analiza:</p>
+<p>&#8211;              Care sunt prioritatile afacerii tale</p>
+<p>&#8211;              Care sunt actiunile care iti ocupa cel mai mult timp</p>
+<p>&#8211;              Care este fluxul de lucru</p>
+<p>&#8211;              Ce pret pui pe timpul tau, cat timp ai nevoie sa eliberezi si ce buget aloci pentru asta</p>
+<p>&#8211;              Timpul inseamna bani, timpul eliberat si astfel castigat, inseamna bani castigati, si dupa cum stii, nu conteaza cat investesti in afacere ci conteaza cat produci cu banii investiti.</p>
+<p> </p>
+<h3>Asadar, ce mai astepti?</h3>
+<p>Automatizeaza, fluidizeaza si transforma procesele cu formulare complexe, fluxuri de lucru si aplicatii personalizate. Toate aplicatiile create de noi sunt realizate prin platformele Microsoft 365 si Microsoft Azure. Odata creata aplicatia dupa nevoile si dorintele tale, vei plati o licenta lunara si un cost mic de mentenanta. Aceste costuri vor fi insa infime in comparatie cu valoarea pe care o vor adauga businessului tau.</p>
+<p>Paseste cu incredere in viitor, adopta ce e mai bun din ceea ce ofera tehnologia de ultima generatie  si <span style="color: #333399;"><a style="color: #333399;" href="/automatizare-procese/">digitalizeaza-ti activitatea</a></span> cu automatizarea proceselor de business.</p>
+<h3>Work smart, not hard</h3>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft schimba denumirea pentru Office 365</title>
+		<link>/microsoft-schimba-denumirea-pentru-office-365/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 15:40:14 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[Microsoft 365 Business]]></category>
+		<category><![CDATA[Microsoft 365 Business Basic]]></category>
+		<category><![CDATA[Microsoft 365 Business Premium]]></category>
+		<category><![CDATA[Microsoft 365 Business Standard]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<guid isPermaLink="false">/?p=12903</guid>
+
+					<description><![CDATA[Microsoft anunta modificari ale abonamentelor Office 365 pentru SMB (firme mici si mijlocii) si pentru Office 365 ProPlus. Pe viitor aceste produse vor folosi denumirea de Microsoft 365. Aceasta este o evolutie naturala. Microsoft 365 a inceput in 2017 ca un pachet de licente pentru clientii business &#8211; o combinatie intre Windows, Office si Enterprise [...]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Microsoft anunta modificari ale abonamentelor Office 365 pentru SMB (firme mici si mijlocii) si pentru Office 365 ProPlus. Pe viitor aceste produse vor folosi denumirea de Microsoft 365.</strong></p>
+<p>Aceasta este o evolutie naturala. Microsoft 365 a inceput in 2017 ca un pachet de licente pentru clientii business &#8211; o combinatie intre Windows, Office si Enterprise Mobility and Security (EMS). &nbsp;A evoluat mult de atunci. Microsoft 365 reprezinta viziunea Microsoft pentru viitorul instrumentelor de productivitate &#8211; un set integrat de aplicatii si servicii care ofera inteligenta artificiala (AI) si alte inovatii de ultima ora pentru dumneavoastra. Si pentru firmele mici și mijlocii, aceasta include noi capabilitati ale Microsoft Teams pentru a va ajuta sa gazduiti online intalniri si sa colaborati mai eficient; Capabilitati de stocare si partajare a fisierelor in Cloud, astfel incat sa puteti colabora de oriunde; solutii de securitate si managemntul identitatatii online pentru a va proteja afacerea.</p>
+<p><strong>Noile nume ale produselor </strong></p>
+<p>Noile nume de produse intra in vigoare incepand cu 21 aprilie 2020. Aceasta este o modificare a numelui produsului si nu exista modificari ale preturilor sau ale functionalitatilor in acest moment.</p>
+<p><strong><em>Office 365 Business Essentials</em></strong> devine <strong>Microsoft 365 Business Basic</strong>.</p>
+<p><strong><em>Office 365 Business Premium</em></strong> devine <strong>Microsoft 365 Business Standard</strong>.</p>
+<p><strong><em>Microsoft 365 Business</em></strong> devine <strong>Microsoft 365 Business Premium</strong>.</p>
+<p><strong><em>Office 365 Business</em></strong> si <strong><em>Office 365 ProPlus</em></strong> vor deveni ambele <strong>Microsoft 365 Apps</strong>. &nbsp;Acolo unde va fi necesar, se va folosi mentiunea „business” sau „enterprise” pentru a face dinferenta intre cele 2 produse.</p>
+<p>Retineti ca modificarile aduse acestor produse se vor face automat si nu va trebui sa faceti nimic in acest sens.</p>
+<p>&nbsp;</p>
+<p><em>„Astazi, anuntam pur si simplu schimbari de nume. Dar aceste schimbari reprezinta ambitia noastra de a continua sa impulsionam inovatia in Microsoft 365, care depaseste cu mult ceea ce clientii considera in mod traditional Office. Pachetul Office pe care il cunoasteti si pe care il indragiti este in continuare inclus, dar suntem incantati de noile aplicatii si servicii pe care le-am adaugat la abonamentele noastre in ultimii ani. De asemeni in lunile urmatoare vom adauga noi inovatii.” &nbsp;&#8211; &nbsp;Jared Spataro, Corporate Vice President for Microsoft 365</em></p>
+<p>&nbsp;</p>
+<p><strong>De ce se fac aceste schimbari?</strong></p>
+<p>In primul rand, pentru ca produsele sa reflecte gama de caracteristici si beneficii din abonament. Microsoft 365 este un set integrat de aplicatii si servicii care ofera AI (inteligenta artificiala) si alte inovatii de varf sa functioneze pentru dumneavoastra. Si pentru firmele mici si mijlocii, aceasta include noi capacitati in Microsoft Teams pentru a va ajuta sa gazduiti intalniri online; Capabilitati de stocare si partajare a fisierelor in cloud, astfel incat sa puteti colabora de oriunde aveti internet; si solutii de securitate si identitate pentru a va proteja afacerile. In al doilea rand, cautam mereu modalitati de simplificare. Aceasta noua abordare a numirii produselor noastre este conceputa pentru a va ajuta sa gasiti rapid planul de care aveti nevoie.</p>
+<p>&nbsp;</p>
+<p><strong>Cum se incadreaza Office in Microsoft 365? Voi mai putea folosi Word, Excel si PowerPoint?</strong></p>
+<p>Suita Office este esentiala pentru experienta de productivitate Microsoft si aceasta nu se schimba. Dar in ultimii cativa ani, oferta noastră de productivitate in cloud a crescut cu mult peste ceea ce oamenii considera in mod traditional „Office”. Word, Excel si PowerPoint sunt mai importante ca niciodata. Dar în Microsoft 365 imbunatatim aceste aplicatii cu ajutorul tehnologiilor Cloud si AI si adaugam experiente noi, gazduite in Cloud, precum Teams, Stream, Forms si Planner. Toate acestea sunt bazate de un set de servicii comune care va pastreaza datele in siguranta. Este un office imbunatatit Office plus multe altele.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Slack lucreaza la integrarea cu Microsoft Teams pentru apeluri, spune CEO-ul Stewart Butterfield</title>
+		<link>/slack-lucreaza-la-integrarea-cu-microsoft-teams-pentru-apeluri-spune-ceo-ul-stewart-butterfield/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 11:17:24 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Colaborare]]></category>
+		<category><![CDATA[Microsoft Teams]]></category>
+		<category><![CDATA[Work Remote]]></category>
+		<guid isPermaLink="false">/?p=12882</guid>
+
+					<description><![CDATA[Slack lucreaza la integrarea cu Microsoft Teams pentru apeluri, anunta CEO Stewart Butterfield Slack, instrumentul Google de colaborare in echipa , lucreaza la o tehnologie care va permite utilizatorilor sai sa comunice cu cei care folosesc Microsoft Teams, cel mai bun concurent al lui Slack. Stewart Butterfield, co-fondatorul Slack a anuntat planul in timpul unui [...]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Slack lucreaza la integrarea cu Microsoft Teams pentru apeluri, anunta CEO Stewart Butterfield</strong></p>
+<p>Slack, instrumentul Google de colaborare in echipa , lucreaza la o tehnologie care va permite utilizatorilor sai sa comunice cu cei care folosesc Microsoft Teams, cel mai bun concurent al lui Slack. Stewart Butterfield, co-fondatorul Slack a anuntat planul in timpul unui apel cu analistul RBC Alex Zukin.</p>
+<p>Strategia reflecta o crestere a constientizarii ca oamenii utilizeaza alte servicii pentru anumite functii care sunt deja disponibile in Slack. Saptamana trecuta, Microsoft a dezvaluit ca Teams are deja 44 milioane de utilizatori activi zilnic. Slack nu a anuntat un raport comparabil din octombrie, cand a spus ca există 12 milioane de utilizatori zilnici.</p>
+<p><em>„Lucram la integrarea Microsoft Teams pentru functiile de apelare”</em>, a spus Butterfield in timpul apelului.</p>
+<p>Slack functioneaza deja cu servicii Microsoft Office precum OneDrive, Outlook si SharePoint.</p>
+<p>Microsoft Teams, precum si Zoom, au oferit un fel de inlocuitor virtual pentru intalniri in persoana in salile de conferinte, dupa ce din ce in ce mai multe persoane au inceput sa lucreze de acasa in ultimele saptamani pentru a evita extinderea suplimentara a coronavirusului, a spus Butterfield in timpul apeului.</p>
+<p>Nu este clar cand integrarea va deveni disponibila in Slack. Reprezentantii Microsoft si Slack nu au raspuns imediat la cererile de comentarii.</p>
+<p>Slack a devenit disponibil în 2014, iar Microsoft a introdus Teams in 2016.</p>
+<p><em>Sursa: <a href="https://www.cnbc.com/">https://www.cnbc.com/</a></em></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams gratuit timp de 6 luni si Office 365 gratuit timp de 3 luni</title>
+		<link>/microsoft-teams-gratuit-timp-de-6-luni-si-office-365-gratuit-timp-de-3-luni/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 16:10:29 +0000</pubDate>
+				<category><![CDATA[Lucreaza Remote]]></category>
+		<category><![CDATA[Aplicatii chat]]></category>
+		<category><![CDATA[Chat Teams]]></category>
+		<category><![CDATA[Free Microsoft Teams]]></category>
+		<category><![CDATA[Microsoft Teams]]></category>
+		<category><![CDATA[Mircrosoft Trial]]></category>
+		<category><![CDATA[Online Call]]></category>
+		<category><![CDATA[Partener Microsoft]]></category>
+		<category><![CDATA[Skype]]></category>
+		<category><![CDATA[Videocall]]></category>
+		<category><![CDATA[Work Remote]]></category>
+		<guid isPermaLink="false">/?p=12585</guid>
+
+					<description><![CDATA[Business goes on &#124; Afacerea ta merge mai departe Munca de la distanta este urmatorul pas pentru cresterea afacerii tale Pepas Cloud, Partener oficial Microsoft, ofera Microsoft Teams gratuit timp de 6 luni pentru persoane juridice. Pentru organizatiile cu mai mult de 1000 de angajati (utilizatori) Pepas Cloud ofera, in parteneriat cu Microsoft, Office 365 [...]]]></description>
+										<content:encoded><![CDATA[
+<h2>Business goes on | Afacerea ta merge mai departe</h2>
+
+
+
+<h4>Munca de la distanta este urmatorul pas pentru cresterea afacerii tale</h4>
+
+
+
+<p>Pepas Cloud, Partener oficial Microsoft, ofera <a href="/microsoft-teams/">Microsoft Teams</a> gratuit timp de 6 luni pentru persoane juridice. Pentru organizatiile cu mai mult de 1000 de angajati (utilizatori) Pepas Cloud ofera, in parteneriat cu Microsoft, Office 365 E1 Trial timp 6 luni. Pentru cei interesati de Office 365 Pepas Cloud ofera licenta gratuit timp de 3 luni la nivelul pachetului Office 365 Business Premium.</p>
+
+
+
+<p>Institutiile de invatamant acreditate de Ministerul
+Educatiei, birourile de administrare ale acestora precum si bibliotecile si
+muzeele publice vor primi gratuit, pe o perioada nelimitata, licenta de Office
+365 A1. Tot ce trebuie sa faca este sa ia legatura cu Pepas Cloud si sa isi
+exprime dorinta de a folosi Office 365.</p>
+
+
+
+<h4>Comunicarea rapida si eficienta este strict necesara pentru dezvoltarea afacerii. Viteza de reactie este esentiala. </h4>
+
+
+
+<p>Cand ai o experienta neplacuta cu utilizarea unei aplicatii
+de comunicare in timp real (aplicatii de chat) tendinta este de a blama aplicatia
+si dupa cum se dovedeste, problema este cu totul alta. Daca aplicatia si reteaua
+nu sunt configurate corect sau viteza internetului este slaba nu vei putea
+beneficia la maxim de avantajele pe care aceste aplicatii le ofera.</p>
+
+
+
+<p>La <strong>Pepas Cloud</strong> ajutam din ce in ce mai multi clienti sa treaca de la Skype for Business “on premises” sau alte aplicatii de chat la Microsoft Teams (in cloud) si odata cu asta trebuie luate in calcul mai multe caracteristici ale retelei (de internet), ceea ce nu era necesar anterior. Nu iti face griji, nu trebuie sa te ocupi tu de asta, aceasta este expertiza noastra si <strong>te vom ajuta noi sa implementezi rapid si corect Microsoft Teams</strong> cat si alte aplicatii de comunicare si colaborare ce fac parte din Office 365 sau Microsoft 365.</p>
+
+
+
+<blockquote class="wp-block-quote"><p></p><cite>Indiferent ce aplicatii de chat folosesti noi te putem ajuta cu migrarea la <a href="/microsoft-teams/">Microsoft Teams</a> si sa folosesti corect si complet aplicatia pentru a abeneficia de toate avantajele pe care le aduce in lucrul de la distanta.  <br>Pentru mai multe detalii ne auzim la telefon 0756225522</cite></blockquote>
+
+
+
+<h4></h4>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Noul Microsoft Edge</title>
+		<link>/noul-microsoft-edge/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2020 11:41:51 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Edge Chromium]]></category>
+		<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">/?p=11673</guid>
+
+					<description><![CDATA[Microsoft a lansat noul browser Microsoft Edge!   Noul Edge este bazat pe tehnologia Chromium (exact ca si Google Chrome) si este mult mai rapid avand in unele cazuri performante mai bune decat Chrome. Potrivit Microsoft, noul Microsoft Edge va economiseste timp si va ajuta sa va concentrati, oferind un mod rapid si sigur de [...]]]></description>
+										<content:encoded><![CDATA[
+<h1>Microsoft a lansat noul browser Microsoft Edge!</h1>
+<p> </p>
+<h5>Noul Edge este bazat pe tehnologia Chromium (exact ca si Google Chrome) si este mult mai rapid avand in unele cazuri performante mai bune decat Chrome.</h5>
+<h5>Potrivit Microsoft, noul Microsoft Edge va economiseste timp si va ajuta sa va concentrati, oferind un mod rapid si sigur de a face lucrurile pe web. Astazi, noul Microsoft Edge este in afara perioadei de test si este gata de descarcare pe toate versiunile acceptate de Windows si macOS si este disponibil in mai mult de 90 de limbi. Microsoft Edge este disponibil si pentru dispozitivele mobile ce folosesc iOS si Android, oferind o adevarata experienta cross-platform. Noul Microsoft Edge ofera performante de nivel ridicat cu o mai mare securitate a datelor, mai mare productivitate si mai mare transparenta in timp ce navigati.</h5>
+<p> </p>
+<h2>Instalarea</h2>
+<p><img class="alignnone size-medium wp-image-12747" src="/wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-800x369.jpg" alt="" width="800" height="369" srcset="/wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-800x369.jpg 800w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-600x276.jpg 600w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-1400x645.jpg 1400w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-768x354.jpg 768w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud-1536x708.jpg 1536w, /wp-content/uploads/2020/03/Release-of-Microsoft-Edge-Chromium-Pepas-Cloud.jpg 1901w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h5>Puteti obtine noul Microsoft Edge pentru Windows si macOS astazi, descarcandu-l direct de <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.microsoft.com/en-us/edge?form=MO12GE&amp;OCID=MO12GE" target="_blank" rel="noopener noreferrer">aici</a></span> sau puteti astepta ca acesta sa fie lansat automat pe dispozitivele Windows prin Windows Update. Cand instalati Microsoft Edge pe un dispozitiv Windows 10 actualizat, acesta va inlocui versiunea anterioara (legacy) de pe dispozitiv. In unele cazuri, vi se poate solicita sa instalati actualizari suplimentare. Favoritele, parolele si setarile de baza vor fi transmise automat la noul Microsoft Edge. Aplicatiile web (inclusiv cele construite pe EdgeHTML) si canalele de previzualizare Microsoft Edge (cum ar fi Dev sau Canary) vor continua sa functioneze fara intrerupere.</h5>
+<h5> </h5>
+<h5>Daca esti administrator IT, va trebui sa descarci un pachet de implementare offline pentru a fi instalat in infrastructura organizatiei tale &#8211; noul Microsoft Edge nu se va instala automat pentru clientii comerciali. In plus, niciunul dintre canalele de test Microsoft Edge nu se va actualiza la noul Microsoft Edge, deoarece pot fi utilizate in paralel pentru testare si validare.</h5>
+<h5> </h5>
+<h5>Daca utilizati Microsoft Edge pe iOS sau Android, nu trebuie sa faceti nicio actiune &#8211; dispozitivul vostru se va actualiza automat.</h5>
+<p> </p>
+<h2>Fiti gata pentru noul Microsoft Edge</h2>
+<p> </p>
+<h5>Fie ca incercati pentru prima data noul Microsoft Edge, fie ca ati fost parte din cei care au testat Edge in ultimul an, cu totii ati contribuit la dezvoltarea noului produs.</h5>
+<h5>Administratorii si profesionistii IT pot afla mai multe despre implementarea, administrarea si configurarea noului Microsoft Edge in organizatia lor la noua <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.microsoft.com/en-us/edge/business/download?form=MO12GD&amp;OCID=MO12GD" target="_blank" rel="noopener noreferrer">pagina enterprise</a></span>.</h5>
+<h5> </h5>
+<h5>Dezvoltatorii web pot gasi indrumari privind integrarea Microsoft Edge in matricea lor de test precum si mai multe informatii despre noile capabilitati ale platformei, instrumente pentru dezvoltatori, aplicatii web si multe altele in <a href="https://docs.microsoft.com/en-us/microsoft-edge/" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">documentatia pentru dezvoltatori web</span></a>.</h5>
+<p> </p>
+<h4><strong><span style="color: #000000;">Navigare fericita!</span></strong></h4>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Windows 7 &#038; Windows Server 2008 &#038; 2008 R2 &#8211; sfarsitul suportului</title>
+		<link>/windows-7-windows-server-2008-2008-r2-sfarsitul-suportului/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2020 11:35:51 +0000</pubDate>
+				<category><![CDATA[Securitate IT & Backup]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<category><![CDATA[Windows Server 2008]]></category>
+		<category><![CDATA[Windows Server 2008 R2]]></category>
+		<guid isPermaLink="false">/?p=11642</guid>
+
+					<description><![CDATA[Windows 7 &#38; Windows Server 2008 &#38; 2008 R2 &#8211; sfarsitul suportului     Din 14 ianuarie 202o Microsoft nu mai asigura suport si actualizari de securitate pentru Windows 7 si Windows Server 2008 si 2008 R2.   Ce inseamna asta?   Inseamna ca de acum inainte toti utilizatorii acestor sisteme nu vor mai beneficia [...]]]></description>
+										<content:encoded><![CDATA[
+<h1>Windows 7 &amp; Windows Server 2008 &amp; 2008 R2 &#8211; sfarsitul suportului</h1>
+<p> </p>
+<p> </p>
+<h5>Din 14 ianuarie 202o Microsoft nu mai asigura suport si actualizari de securitate pentru Windows 7 si Windows Server 2008 si 2008 R2.</h5>
+<h2> </h2>
+<h2>Ce inseamna asta?</h2>
+<p> </p>
+<h5>Inseamna ca de acum inainte toti utilizatorii acestor sisteme nu vor mai beneficia de actualizarile de securitate si de suportul Microsoft in rezolvarea unor bug-uri sau altor probleme legate de sistemele de operare. In plus, majoritatea aplicatiilor folosite de utilizatori nu vor mai fi compatibile cu aceste sisteme. Acest lucru poate crea probleme de securitate si de conformitate si poate expune aplicatiile si datele unei organizatii la riscuri serioase de securitate.</h5>
+<p> </p>
+<h2>Ce pot sa fac?</h2>
+<p> </p>
+<h4><span style="color: #000000;">In caz ca nu ai facut upgrade pana acum ai cateva modalitati de a face asta:</span></h4>
+<p> </p>
+<h5>1) Cea mai simpla varianta de a face upgrade este sa cumperi o licenta Retail de <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.pepas.cloud/produse/produse-noi/software/sisteme-de-operare/windows-10-home-retail/" target="_blank" rel="noopener noreferrer">Windows 10 Home</a></span> sau <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.pepas.cloud/produse/produse-noi/software/sisteme-de-operare/windows-10-pro-retail/" target="_blank" rel="noopener noreferrer">Windows 10 Pro</a></span></h5>
+<p> </p>
+<h5>2) O alta modalitate simpla de a face upgrade este sa iti cumperi un dispozitiv nou sau refurbished cu Windows 10 preinstalat. Poti gasi <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.pepas.cloud/product-category/produse-refurbished/calculatoare-refurbished/" target="_blank" rel="noopener noreferrer">aici</a></span> modele de PC refurbished cu Windows 10 preinstalat.</h5>
+<p> </p>
+<h5>3) A treia varianta de upgrade este sa achizitionezi un abonament Microsoft 365 sau doar Windows 10 Enterprise</h5>
+<p> </p>
+<h5>4) Windows Virtual Desktop. O optiune adecvata pentru organizatiile care pot utiliza o solutie de virtualizare. Windows Virtual Desktop este singurul serviciu bazat pe cloud care ofera o experienta multi-user Windows 10 si este optimizat pentru Office 365 ProPlus. Aceasta optiune include gratuit Windows 7 ESU.</h5>
+<p> </p>
+<h5>In toate cele 4 variante de mai sus te putem ajuta! Daca vrei sa stii ce preturi sunt pentru produse, nu ezita sa ne contactezi sau sa vizitezi <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.pepas.cloud/" target="_blank" rel="noopener noreferrer">magazinul</a></span> nostru online.</h5>
+<p> </p>
+<p> </p>
+<h2>Ce altceva mai pot face?</h2>
+<p> </p>
+<h5>Daca firma ta nu poate renunta la Windows 7 din motive tehnice (compatibilitatea unor aplicatii, dispozitive, etc.) exista varianta de achizitionare a Windows 7 ESU (pachetul de actualizari extinse). Avand acest pachet achizitionat vei putea sa primesti in continuare actualizari de securitate si suport din partea Microsoft. Citeste mai multe <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://support.microsoft.com/ro-ro/help/4527878/faq-about-extended-security-updates-for-windows-7" target="_blank" rel="noopener noreferrer">aici</a></span> despre pachetul extins de actualizari.</h5>
+<h5> </h5>
+<p> </p>
+<h2>Ce se intampla daca utilizez Office 365 ProPlus pe Windows 7?</h2>
+<p> </p>
+<h5>Dupa 14 ianuarie 2020, daca utilizati Office 365 ProPlus pe un computer ce ruleaza Windows 7, Office 365 ProPlus nu va mai primi nicio noua caracteristica sau actualizare. Cu toate acestea, pentru a oferi ceva mai mult timp pentru a face tranzitia la Windows 10 sau la alt sistem de operare Windows, Office 365 ProPlus va primi actualizari de securitate pana in 2023.</h5>
+<h5>Windows 7 ESU nu va avea niciun efect asupra asistentei pentru Office 365 ProPlus pe Windows 7. Office 365 este guvernat de <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://support.microsoft.com/ro-ro/help/30881/modern-lifecycle-policy" target="_blank" rel="noopener noreferrer">Modern Lifecycle Policy</a></span>, care impune organizatiilor sa ramana la curent conform cerintelor de service si de <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://products.office.com/ro-ro/office-system-requirements?rtc=2" target="_blank" rel="noopener noreferrer">sistem</a></span> pentru produs sau serviciu. Aceste cerinte includ utilizarea Office 365 ProPlus pe un sistem de operare Windows pentru care se ofera suport in prezent.</h5>
+<h5>Va sfatuim cu tarie sa nu folositi Office 365 ProPlus pe Windows 7. Folosind o aplicatie moderna bazata pe tehnologia cloud pe un sistem de operare invechit poate provoca, in timp, probleme de performanta si fiabilitate. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://docs.microsoft.com/en-us/deployoffice/windows-7-support" target="_blank" rel="noopener noreferrer">Aflati mai multe</a></span> despre relatia dintre Office 365 ProPlus si Windows 7 la finalul perioadei de suport.</h5>
+<p> </p>
+<p> </p>
+<h2>In ceea ce priveste Windows Server 2008 &amp; 2008 R2 exista 2 posibilitati de upgrade:</h2>
+<p> </p>
+<h5>1) Achizitonarea unei licente de Windows Server 2019 (versiunile 2016 si 2012 nu mai sunt livrate de Microsoft si vor mai fi gasite doar prin stocurile partenerilor)</h5>
+<h5>2) Migrarea acelui server in Azure unde se poate alege sa se continue folosirea Windows Server 2008 &amp; 2008 R2 la care se adauga gratuit  3 ani de ESU (Extended Security Updates). Avand deja o licenta de Windows Server 2008 sau 2008 R2 puteti sa o folositi impreuna cu Azure Hybrid Benefit and Reserved Instances pentru a primi pana la 80% discount la Azure VM.</h5>
+<p> </p>
+<p> </p>
+<h5>Ca tot am adus vorba de perioade de suport si actualizari pentru sistemele de operare, Windows 10 are si el asa ceva.  Majoritatea versiunilor de Windows 10 au o perioada de suport si actualizari de 18 luni, exceptie facand versiunile Enterprise care au 30 de luni.</h5>
+<h5>Actualizarile de caracteristici sunt lansate de 2 ori pe an pentru Windows 10 prin intermediul canalului semianual, fiind stabilite pentru martie si septembrie in fiecare an. Actualizarile sunt cumulative, fiecare actualizare fiind construita pe baza celor care o preced; trebuie sa instalati intotdeauna cea mai recenta actualizare de caracteristici (versiune), inainte ca versiunea curenta sa ajunga la sfarsitul perioadei de service, pentru a beneficia de asistenta de la Microsoft prin actualizari de calitate lunare.</h5>
+<p> </p>
+<h5>Mai multe detalii gasiti <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://support.microsoft.com/ro-ro/help/13853/windows-lifecycle-fact-sheet" target="_blank" rel="noopener noreferrer">aici</a></span> despre perioadele de suport si actualizari ale Windows 10.</h5>
+<p> </p>
+<p> </p>
+<p> </p>
+<h4><span style="color: #000000;">Daca aveti nelamuriri sau aveti nevoie de ajutor, suntem mereu aici!</span></h4>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Cloud &#8211; primul Data Center in Orientul Mijlociu</title>
+		<link>/microsoft-cloud-primul-data-center-in-orientul-mijlociu/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2019 10:40:36 +0000</pubDate>
+				<category><![CDATA[Cloud News]]></category>
+		<category><![CDATA[Microsoft Azure]]></category>
+		<category><![CDATA[Microsoft Cloud]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<guid isPermaLink="false">/?p=9458</guid>
+
+					<description><![CDATA[Microsoft anunta deschiderea primului Data Center in Orientul Mijlociu incepand cu 18 iunie!   Conform celor de la Microsoft incepand din 18 iunie, Microsoft Azure si Microsoft Offfice 365 fac un pas mare impreuna in a oferi servicii Cloud si a pregati clientii din Orientul Mijlociu pentru transformarea digitala. Ambele servicii sunt fi disponibile clientilor [...]]]></description>
+										<content:encoded><![CDATA[
+<h3>Microsoft anunta deschiderea primului Data Center in Orientul Mijlociu incepand cu 18 iunie!</h3>
+<p> </p>
+<p>Conform celor de la Microsoft incepand din 18 iunie, Microsoft Azure si Microsoft Offfice 365 fac un pas mare impreuna in a oferi servicii Cloud si a pregati clientii din Orientul Mijlociu pentru transformarea digitala.</p>
+<p>Ambele servicii sunt fi disponibile clientilor din Emiratele Arabe Unite iar din ultima partea a lui 2019, Dynamics 365 si Power Platform vor fi disponibile.</p>
+<p>Deschiderea noilor regiuni Cloud in Abu Dhabi si Dubai reprezinta inceputul dezvoltarii centrelor Cloud din Golf si din Orientul Mijlociu de catre Microsoft si rezolvarea problemelor legale ce privesc locatia de rezidenta a datelor.</p>
+<p>Noile regiuni de cloud adera la principiile <a href="https://www.microsoft.com/en-us/trust-center">Microsoft Trusted Cloud</a> si se alatura uneia dintre cele mai mari si mai sigure infrastructuri de Cloud din lume, care deserveste deja peste un miliard de clienti si 20 de milioane de companii. Microsoft are o expertiza profunda in protectia datelor, securitate si confidentialitate, inclusiv cel mai larg set de certificari de conformitate din industrie si este primul furnizor de servicii de Cloud din Emiratele Arabe Unite care obtine certificarea Dubai Electronic Security Center pentru serviciile sale de cloud. Concentrarea Microsoft continua pe principiile trusted Cloud si pozitia de lider in conformitate, inseamna ca clientii din regiune isi pot accelera transformarea digitala cu incredere si vor avea deja fundatia pentru a realiza si a securiza propriile aplicatii cu ajutorul tehnologiilor Cloud de la Microsoft.</p>
+<p>Infrastructura locala pentru centre de date stimuleaza dezvoltarea economica atat pentru clienti, cat si pentru parteneri, permitand companiilor, guvernelor si companiilor din zona sa realizeze avantajele Cloud-ului pentru inovare, precum si sa sprijine ecosistemul tehnologic care sustine inovatia. Microsoft anticipeaza ca serviciile cloud livrate din Emiratele Arabe Unite vor avea un impact pozitiv asupra crearii de locuri de munca, antreprenoriatului si cresterii economice in regiune. International Data Corporation (IDC) estimeaza ca serviciile Cloud ar putea aduce in Orientul Mijlociu mai mult de o jumatate de milion de locuri de munca, incluzand potentialul a peste 55.000 de noi locuri de munca în Emiratele Arabe Unite, intre 2017 si 2022.</p>
+<p> </p>
+<p>De asemenea, Microsoft continua sa contribuie la depasirea decalajului de competente in randul comunitatii IT si sa consolideze experienta tehnica a serviciilor Cloud. Cloud Society, un program orientat catre Orientul Mijlociu si Africa, cu ajutorul Microsoft Learn, a pregatit peste 150.000 de profesionisti IT in cadrul MEA. Comunitatea va beneficia si mai mult de disponibilitatea sporita si de performanta serviciilor Cloud furnizate din Emiratele Arabe Unite pentru a ajuta la realizarea avantajelor Cloud-ului enterprise, imbunatatirea abilitatilor in migrare de date si gestionarea mai eficienta a infrastructurii cloud.</p>
+<p> </p>
+<p> </p>
+<p>Poti citi mai multe detalii aici: <a href="https://news.microsoft.com/en-xm/?p=17732&amp;post_type=features&amp;preview=1&amp;_ppp=2e778af53a" target="_blank" rel="noopener noreferrer">Microsoft Middle East and Africa News Center</a>, <a href="https://azure.microsoft.com/en-us/global-infrastructure/unitedarabemirates/" target="_blank" rel="noopener noreferrer">Microsoft Azure United Arab Emirates</a>, <a href="https://products.office.com/en-us/business/enterprise-productivity-tools" target="_blank" rel="noopener noreferrer">Microsoft Office 365</a>, <a href="https://dynamics.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">Microsoft Dynamics 365</a>, si <a href="https://powerplatform.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">Microsoft Power Platform</a>.</p>
+<p> </p>
+<p>Sursa: poti citi mai multe detalii <a href="https://azure.microsoft.com/en-us/blog/first-microsoft-cloud-regions-in-middle-east-now-available/?fbclid=IwAR22ZTr5_o2HCTC-BKxD9FKH4VHJl6xy0HXcQslsmjItGxbLYRuMjBYmsYQ">aici</a>!</p>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Office 365 &#8211; ghid de bune practici in securitate</title>
+		<link>/microsoft-office-365-ghid-de-bune-practici-in-securitate/</link>
+		
+		<dc:creator><![CDATA[Daniel Toma]]></dc:creator>
+		<pubDate>Wed, 22 May 2019 06:29:04 +0000</pubDate>
+				<category><![CDATA[Securitate IT & Backup]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Microsoft Cloud]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<guid isPermaLink="false">/?p=8445</guid>
+
+					<description><![CDATA[    In luna mai CISA (Cybersecurity and Infrastructure Security Agency) a publicat un ghid de bune practici in ce priveste securitatea serviciului Cloud Microsoft Office 365.   Conform CISA, numarul de organizatii la nivel mondial ce foloseste Office 365 creste si odata cu aceasta apar si noi reguli ce ar trebui sa fie urmate. [...]]]></description>
+										<content:encoded><![CDATA[
+<p> </p>
+<p> </p>
+<h3>In luna mai <a href="https://www.us-cert.gov/ncas/analysis-reports/AR19-133A">CISA</a> (Cybersecurity and Infrastructure Security Agency) a publicat un ghid de bune practici in ce priveste securitatea serviciului Cloud Microsoft Office 365.</h3>
+<p> </p>
+<p>Conform CISA, numarul de organizatii la nivel mondial ce foloseste Office 365 creste si odata cu aceasta apar si noi reguli ce ar trebui sa fie urmate. Odata ce marile companii trec la Office 365, automat un numar de furnizori si colaboratori fac acelasi lucru si asta atrage un risc si posibile probleme de securitate daca respectivele organizatii nu configureaza asa cum trebuie serviciile si daca nu respecta anumite standarde.</p>
+<p>Incepand cu octombrie 2018 CISA a intrat in contact cu mai multe companii care au migrat la Office 365 folosind serviciile unor firme terte care s-au ocupat de migrarea in Cloud a datelor.</p>
+<p>S-a observat ca o buna parte din aceste firme au avut o combinatie de configuratii care au redus nivelul de securitate. Functionalitati precum audit de mailbox, unified audit log, autentificarea in mai multi factori pentru conturile de administratori si multe alte optiuni nu erau activate, fapt ce a dus la crearea de multiple brese de securitate.</p>
+<h3>Exemplu de ce inseamna ca anumite functionalitati de securitate sa fie dezactivate:</h3>
+<ul>
+<li><strong>MFA sau autentificarea cu mai multi factori</strong> pentru conturile de administrator nu este activata in mod implicit: administratorii globali din Azure Active Directory in mediul din Office 365 au cel mai inalt nivel de privilegii de administrator la nivel de platforma. Conturile de administrator sunt primele conturi create asa ca acest tip de utilizator poate incepe configurarea platformei Office 365 inclusiv migrarea datelor catre Cloud. Conturile trebuie securizate pentru ca sunt expuse direct la internet si pot reprezenta o bresa de securitate. Desigur, exista mia multe metode de a securiza un cont in Office 365, totul tine de planificare.</li>
+</ul>
+<p> </p>
+<ul>
+<li><strong>Auditul casutei postale dezactivat: </strong>aceasta optiune inregistreaza toate modificarile care se fac asupra unei casute postale de catre diferite categorii de utilizatori din Office 365. Un administrator trebuie sa poata verifica oricand schimbarile facut pe conturile de Office 365 si cine le-a initiat.</li>
+</ul>
+<p> </p>
+<ul>
+<li><strong>Sincronizarea parolei catre Cloud:</strong> prin intermediul Azure AD Connect organizatiile care au infrasturctura locala (propriul data center sau infrastructura on premise) pot sincroniza indentitatile din mediul local cu cele din Cloud iar infrasturctura locala devine autoritatea principala care controleaza tot ce se intampla la nivel de autentificare catre Cloud. Daca se creeaza un cont local si unul in Cloud si au aceleasi atribute acestea se vor sincroniza daca aveti optiunea de autentificare Password Sync activata iar parola din infrasturctura locala o suprascrie pe cea din Cloud. In acesta situatie, in caz ca un cont de administrator din infrastructura locala este compromis, atunci atacatorul ar avea cale libera spre infrastructura din Cloud. Microsoft a dezactivat aceasta optiune pentru conturile de administrator incepand cu octombire 2018. Cu toate acestea este posibil ca pana atunci sa se fi creat vreo bresa din sincronizarile anterioare.</li>
+</ul>
+<p> </p>
+<ul>
+<li><strong>Autentificarea neacceptata de protocoale vechi:</strong> Azure AD este metoda de autentificare utilizata de Office 365 pentru autentificarea cu Exchange Online, aplicatie ce ofera servicii de email. Exista o serie de protocoale care nu accepta metode de autentificare moderne cu functii de MFA. Aceste protocoale includ Post Office Protocol (POP3), Internet Message Access Protocol (IMAP) si Simple Mail Transport Protocol (SMTP). Protocoalele legacy sunt utilizate cu clientii de e-mail mai vechi, care nu accepta autentificarea moderna. Acestea pot fi dezactivate la nivel de platforma sau la nivel de utilizator. Cu toate acestea, in cazul in care o organizatie are nevoie de clienti de e-mail mai vechi ca o necesitate de business, aceste protocoale nu vor fi dezactivate. Acest lucru lasa conturile de e-mail expuse la internet si sunt protejate numai cu numele de utilizator si parola ca metoda de autentificare primara. O abordare de atenuare a acestei probleme este de a inventaria utilizatorii care incă mai au nevoie de utilizarea unui client de e-mail legacy si a protocoalelor de e-mail legacy. Utilizarea politicilor de acces conditionat Azure AD poate contribui la reducerea numarului de utilizatori care au capacitatea de a utiliza metode de autentificare a protocoalelor vechi. Odata facut acest pas, va reduce foarte mult suprafata de atac pentru organizatii.</li>
+</ul>
+<p> </p>
+<p>CISA incurajeaza organizatiile sa implementeze o strategie Cloud la nivel de organizatie pentru a-si proteja infrastructura proprie prin apararea impotriva atacurilor legate de tranzitia lor la Office 365 si securizarea serviciului lor Office 365. In mod specific, CISA recomanda administratorilor sa implementeze urmatoarele masuri de atenuare si bune practici:</p>
+<p> </p>
+<ul>
+<li><strong>Folosirea autentificarii multi-factor.</strong> Aceasta este cea mai buna metoda de protectie care trebuie utilizata impotriva furtului de credentiale ale utilizatorilor de Office 365.</li>
+<li><strong>Activarea functiei de unified audit logging</strong> din Centrul de Securitate si Conformitate.</li>
+<li><strong>Activarea functiei de audit</strong> pentru casuta postala a fiecarui utilizator.</li>
+<li><strong>Fiti siguri ca functia de AD password sync </strong>este configurata corect dupa o planificare riguroasa inainte de a migra utilizatorii catre Cloud.</li>
+<li><strong>Dezactivati protocoalele de e-mail de tip legacy</strong>, daca nu sunt necesare, sau limitati utilizarea acestora pentru anumiti utilizatori.</li>
+</ul>
+<p> </p>
+<p>Acestea fiind spuse, odata ce va hotarati sa treceti sau deja ati trecut la Office 365/Microsoft 365 fiti foarte atenti cu ce parteneri incepeti acest proces, ce metode vor utiliza si ce functionalitati au activat odata cu trecerea la solutiile de Cloud alese.</p>
+<p> </p>
+<p>Copyright © PEPAS CLOUD 2019</p>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
